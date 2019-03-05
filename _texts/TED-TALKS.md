@@ -4,6 +4,7 @@ title: "Write a TED talk - a personal speech about what it feels like growing up
 author: High School Students Sydney
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
+permalink: "/texts/tedtalks/"
 ---
 
 ## Manuel, 17, male, Blacktown
