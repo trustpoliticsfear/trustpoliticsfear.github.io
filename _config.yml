@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+title:               Trust, Politics and Fear 
+tagline:             'Growing up in the Age of Terror'
+description:         'Stories..'
+url:                 'https://trustpoliticsfear.github.io'
+baseurl:             '/'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:             Randa Abdel-Fattah
+  url:              "https://researchers.mq.edu.au/en/persons/randa-abdel-fattah/projects/?status=RUNNING"
+  email:            randa.abdel-fattah@mq.edu.au
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
