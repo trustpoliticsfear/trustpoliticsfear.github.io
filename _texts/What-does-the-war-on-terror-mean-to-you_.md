@@ -1,4 +1,4 @@
-﻿---
+---
 layout: narrative
 title: "What does the war on terror mean to you?"
 author: High School Students Sydney

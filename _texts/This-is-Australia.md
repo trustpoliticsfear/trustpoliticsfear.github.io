@@ -1,7 +1,7 @@
-﻿---
+---
 layout: poem
-title:  "This is Australia..."
-author: High School Students Sydney 
+title: "This is Australia..."
+author: High School Students Sydney
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
 ---
