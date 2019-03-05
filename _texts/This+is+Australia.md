@@ -1,9 +1,9 @@
 ﻿---
 layout: poem
-title: This is Australia...
+title:  "This is Australia..."
 author: High School Students Sydney 
 editor: Randa Abdel-Fattah
-
+source: Transcripts from high school students
 ---
 
 ## Manuel, 17, male, Blacktown
@@ -25,7 +25,7 @@ editor: Randa Abdel-Fattah
 
  
 
-# Luke, 17, Blacktown, Australian, Catholic, 
+## Luke, 17, Blacktown, Australian, Catholic, 
 
 - This is Australia,
 - Don’t be persuaded by our national song.

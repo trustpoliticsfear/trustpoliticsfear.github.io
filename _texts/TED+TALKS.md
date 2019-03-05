@@ -1,7 +1,13 @@
-﻿Manuel Fagela  
+﻿---
+layout: narrative
+title: "Write a TED talk - a personal speech about what it feels like growing up in today’s global political and social climate"
+author: High School Students Sydney
+editor: Randa Abdel-Fattah
+source: Transcripts from high school students
 
+---
 
-**Write a TED talk - a personal speech about what it feels like growing up in today’s global political and social climate.**
+## Manuel, 17, male, Blacktown
 
 We live in an evolving world. A world rapidly transforming in front of our eyes, before even our minds can account for and take in the change that is occuring. The social construct of gender has been present for as long as humanity can remember. Though at times stereotypical, these gender norms and gender roles have survived the test of time because of their significance in the function of a successful society.
 

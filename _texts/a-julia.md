@@ -4,6 +4,7 @@ title: A Julia de Burgos
 author: Julia de Burgos
 editor: Alex Gil
 source: Ciudad Seva
+published: false
 ---
 
 - Ya las gentes murmuran que yo soy tu enemiga
