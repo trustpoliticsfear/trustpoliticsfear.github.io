@@ -2,7 +2,7 @@
 layout: page
 title: Documentation
 author: Alex Gil
-published: false
+published: true
 ---
 
 ## Contents
@@ -197,6 +197,15 @@ To indicate lines in poetry we use the line syntax from Markdown:
 - Frozen with snow.
 ~~~
 
+> - Hold fast to dreams
+> - For if dreams die
+> - Life is a broken-winged bird
+> - That cannot fly.
+> - Hold fast to dreams
+> - For when dreams go
+> - Life is a barren field
+> - Frozen with snow.
+{:.poetry}
 To indent specific lines we take advantage of a feature in kramdown that allows us to indicate classes for a line. This approach still allows the line to be readable while editing.
 
 ~~~ markdown
@@ -206,6 +215,12 @@ To indent specific lines we take advantage of a feature in kramdown that allows 
 - {:.indent-6} Fallen cold and dead.
 ~~~
 
+
+> - {:.indent-3} But O heart! heart! heart!
+> - {:.indent-4} O the bleeding drops of red,
+> - {:.indent-5} Where on the deck my Captain lies,
+> - {:.indent-6} Fallen cold and dead.
+{:.poetry}
 The `-` at the beginning of each line indicates that these are lines. The `{:.indent-3}` is what we need to in order to indicate the indent value for that line. Values can range from 1-10. You can expand the range or adjust the values in the Ed stylesheet (`_ed.scss`) in the `_sass` folder.
 
 The example from Raisin in the Sun shows us that we don't need much special markup for theater as long as we use CAPITAL LETTERS for speakers. Italics for directions are easy enough. Just use `*` around the words you want to italicize.
@@ -221,7 +236,7 @@ Footnotes are the bread and butter of scholarship. Kramdown makes footnotes a fa
 
 ~~~
 - O Captain! my Captain! rise up and hear the bells;
-- Rise up—for you the flag is flung—for you the bugle[^fn2] trills,
+- Rise up---for you the flag is flung---for you the bugle[^fn2] trills,
 
 ...
 
@@ -467,7 +482,7 @@ You can now access your site using an address that looks like `http://your-usern
 
 **<span id="a-note-on-your-base-url">A note on your base url</span>**
 
-When you publish on a subfolder—automatic on GitHub pages—many of your links will break unless you indicate the name of your sub-folder in the `baseurl` value in your `_config.html` file. In addition, you need to make sure that your site-wide links (your links to your CSS files, for example) are preceded by the `{{ site.baseurl }}` tag. The base Ed install already uses this system, so you can simply replace the value `/ed` in your `baseurl` to `/your-project-slug`.
+When you publish on a subfolder---automatic on GitHub pages---many of your links will break unless you indicate the name of your sub-folder in the `baseurl` value in your `_config.html` file. In addition, you need to make sure that your site-wide links (your links to your CSS files, for example) are preceded by the `{{ site.baseurl }}` tag. The base Ed install already uses this system, so you can simply replace the value `/ed` in your `baseurl` to `/your-project-slug`.
 
 If on the other hand you are running your site on a root folder, simply erase `/ed`, but do make sure to leave the single quotes:
 
