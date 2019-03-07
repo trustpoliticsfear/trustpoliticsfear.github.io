@@ -3,9 +3,9 @@
 # Setup
 title:               Trust, Politics and Fear 
 tagline:             'Growing up in the Age of Terror'
-description:         'Stories from Australian High Schoolers growing up post 9/11 in the age of terror.'
-url:                 'https://trustpoliticsfear.github.io'
-baseurl:             '/'
+description:         'Stories...'
+url:                 'http://127.0.0.1:4000'
+baseurl:             '/test' # no trailing slash
 
 # About/contact
 author:
