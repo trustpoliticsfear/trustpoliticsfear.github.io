@@ -2,7 +2,7 @@
 layout: page
 title: Documentation
 author: Alex Gil
-published: true
+published: false
 ---
 
 ## Contents
