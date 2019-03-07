@@ -6,7 +6,7 @@ editor: Randa Abdel-Fattah
 source: Transcripts from high school students
 ---
 
-<p><a href="https://en.wikipedia.org/wiki/File:This_Is_America_(single_cover)_2018.jpg#/media/File:This_Is_America_(single_cover)_2018.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/6/62/This_Is_America_%28single_cover%29_2018.jpg" alt="This Is America (single cover) 2018.jpg" height="316" width="316"></a><br>By Source, <a href="//en.wikipedia.org/wiki/File:This_Is_America_(single_cover)_2018.jpg" title="Fair use of copyrighted material in the context of This Is America (Childish Gambino song)">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=57358796">Link</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VYOjWnS4cMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The prompt given to students was to make a poem modeled on [This is America](https://www.youtube.com/watch?v=VYOjWnS4cMY) by Childish Gambino. 
 
