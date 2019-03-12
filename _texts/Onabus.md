@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "On A bus"
+title: Short story: "On A bus"
 author: High school students, Sydney.  
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
