@@ -7,7 +7,7 @@ source: Transcripts from high school students
 published: true
 ---
 
-## Writing Prompt: You board a bus on the morning of news of a terrorist attack in another Western country. Write from somebody else's perspective. 
+## Writing Prompt: You board a bus on the morning of news of a terrorist attack in another Western country. Write from your own or somebody else's perspective.
 
 ## Ben, 17, male, North-West Sydney, Anglo-Australian, agnostic
 
@@ -68,6 +68,6 @@ My mom turns up the radio as we crawl through traffic. A girl with a heavy backp
 > - {:.indent-1} "Be safe," she tells me. “Stay close to walls.”
 > - {:.indent-1} I nod.
 
-## Dara, 15, Western Sydney, Korean Australian, Buddhist
+## Dara, 15, Western Sydney, Korean-Australian, Buddhist
 
 She tilts her head back ever so slightly. A Look of embarrassment crosses her pale face. People stare at her, silently whispering to each other. These remarks are never made about me. I can experience the luxury of no fear of judgment.
