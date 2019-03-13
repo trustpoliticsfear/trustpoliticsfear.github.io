@@ -48,7 +48,7 @@ I feel like for people in my generation, the war terror has kind of just been in
 I think anger is productive. It’s what changes society. But growing up in today’s day and age I still don’t know what I’m angry about. I’m still figuring it out.
 
 ## Caleb, 17, male, North West Sydney, Anglo-Australian, atheist
-I don't really think about or really care about the war on terror since it has never effected me. I like to mind my own business and let the world sort itself out.
+I don't really think about or really care about the war on terror since it has never affected me. I like to mind my own business and let the world sort itself out.
 
 ## Harry, 17, male, North West Sydney, Anglo-Australian, Anglican
 Growing up today I'm afraid of the potential racism has to escalate from verbal discrimination to violence and war in Australia. I'm embarrassed by my failures in comparison to others. I'm good at debating and public speaking. I'm bad at sport. I'm conflicted by the desire to succeed and to enjoy life now. I'm not powerless just because I'm young.
