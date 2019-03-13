@@ -8,15 +8,13 @@ publication-date: 2019
 published: true
 ---
 
----
-
 ## Writing Prompt: Students were asked to write a personal reflection on growing up in the 'war on terror'.
 
 ---
 
 ## Dina, 18, female, Liverpool, Syrian-Australian, Muslim
 
-I’m the success story refugee. Fetishized when I am grateful. Exceptional in my survival and therefore deserving of celebration. If I am angry or critical I must stay quiet. The war on terror is a cone of silence.
+I'm the success story refugee. Fetishized when I am grateful. Exceptional in my survival and therefore deserving of celebration. If I am angry or critical I must stay quiet. The war on terror is a cone of silence.
 
 ## Jenin, 17, female, Merrylands, Lebanese Australian, Muslim
 
@@ -77,13 +75,13 @@ I was called "Taliban" at school. Funny because I'm not even Afghan.
 
 I have not experienced Islamophobia in my life. I think that is because I dress casually and people don't know I'm Muslim.
 
-## ‘Christian’, 17, male, North-West Sydney, Persian Australian, Muslim
+## 'Christian', 17, male, North-West Sydney, Persian Australian, Muslim
 
-The war on terror has impacted many aspects of my life and my family but you can’t get more impacted than having you parents change your name from Ali to Christian. I come from half Persian heritage and I'm very connected to it. Throughout my life, me and my family have been the main target of racism. I've had many racial slurs thrown at me, been discriminated against, and attacked because of this. Me and my father are always pulled aside at airports and are searched extensively. Me and my family are not allowed to travel to countries such as the US, due to our heritage and connections with it. This issue has impacted my family so much, that we have had to change our last name to a more Anglo name in an attempt to stop being subject to this hatred and stereotypes. And I am now ‘Christian’. In this, I have lost a part of myself and my culture.  
+The war on terror has impacted many aspects of my life and my family but you can't get more impacted than having you parents change your name from Ali to Christian. I come from half Persian heritage and I'm very connected to it. Throughout my life, me and my family have been the main target of racism. I've had many racial slurs thrown at me, been discriminated against, and attacked because of this. Me and my father are always pulled aside at airports and are searched extensively. Me and my family are not allowed to travel to countries such as the US, due to our heritage and connections with it. This issue has impacted my family so much, that we have had to change our last name to a more Anglo name in an attempt to stop being subject to this hatred and stereotypes. And I am now 'Christian'. In this, I have lost a part of myself and my culture.  
 
 ## Hatice, 17, female, Western Sydney, Turkish Australian, Muslim
 
-I can sometimes express myself freely at school because I have people around me who are similar to me. I go to an Islamic school and there are some topics I can just talk about without thinking if I’ll be judged against what the media says. I've grown up in an Islamic school, which has saved me from being exposed to the hateful views of others, even though I've been exposed to these through social media platforms. Sometimes it’s the Muslim teachers who try to avoid certain topics. They say ‘it’s not good to talk about that’ or ‘be careful how you talk because things can be misunderstood.’ They don’t want us to talk about political things, like terrorism, because it’s ‘too political’ or ‘too sensitive’. And there are some non-Muslim teachers you have to be careful what you say in front of them, like extra sensitive to how you talk because if they’re having a bad day or the class is mucking up maybe they’ll say something and you realise they see you differently all along. No matter how nice they’ve been sometimes it slips and you think, yeah they think we can go extreme or we’re following a silly religion. Not all teachers, but some.  
+I can sometimes express myself freely at school because I have people around me who are similar to me. I go to an Islamic school and there are some topics I can just talk about without thinking if I'll be judged against what the media says. I've grown up in an Islamic school, which has saved me from being exposed to the hateful views of others, even though I've been exposed to these through social media platforms. Sometimes it's the Muslim teachers who try to avoid certain topics. They say 'it's not good to talk about that' or 'be careful how you talk because things can be misunderstood.' They don't want us to talk about political things, like terrorism, because it's 'too political' or 'too sensitive'. And there are some non-Muslim teachers you have to be careful what you say in front of them, like extra sensitive to how you talk because if they're having a bad day or the class is mucking up maybe they'll say something and you realise they see you differently all along. No matter how nice they've been sometimes it slips and you think, yeah they think we can go extreme or we're following a silly religion. Not all teachers, but some.  
 
 ## Abdul, 17, male, North Western Sydney, Palestinian Australian, Muslim
 
@@ -91,7 +89,7 @@ At school, we can express ourselves freely, but we choose not to since we don't 
 
 ## Nada, 17, female, North Western Sydney, Iraqi Australian, Muslim
 
-My ideal school environment would be if current world issues would be discussed more frequently and we would be taught how to handle them at an earlier stage, rather than later. I feel ashamed to share the same world and country to Donald and Pauline. It is embarrassing to see two uneducated, racist bigots have an opportunity to stand in any form of politics and government. I want to talk about this at school and how I feel but I don’t say anything. I don’t want to stand out.
+My ideal school environment would be if current world issues would be discussed more frequently and we would be taught how to handle them at an earlier stage, rather than later. I feel ashamed to share the same world and country to Donald and Pauline. It is embarrassing to see two uneducated, racist bigots have an opportunity to stand in any form of politics and government. I want to talk about this at school and how I feel but I don't say anything. I don't want to stand out.
 
 ## Elias, 17, male, Western Sydney, Iraqi Australian, Muslim
 
@@ -113,7 +111,7 @@ Donald Trump and Pauline Hanson both hate Muslims. I can't say I hate them since
 
 ## Jamilah, 18, female, North Western Sydney, Lebanese Australian, Muslim
 
-My sister and I travel with my mother a lot, to Dubai where my father is working on an ex pat contract. Every time we travel, somehow it's always us that they stop. We’ve had one-way tickets and those times there’s lots of questions, searching our phones, our bags. My mother’s English isn’t too good so I have to speak to the security staff. I become the advocate for my mother and sister but the irony is I am just as confused and intimidated. My mother eventually explained to me its because they think we’re going to join ISIS. One minute you’re a 15 year old Aussie girl who loves Netflix and music and the next minute you’re looked at as potential ISIS.
+My sister and I travel with my mother a lot, to Dubai where my father is working on an ex pat contract. Every time we travel, somehow it's always us that they stop. We've had one-way tickets and those times there's lots of questions, searching our phones, our bags. My mother's English isn't too good so I have to speak to the security staff. I become the advocate for my mother and sister but the irony is I am just as confused and intimidated. My mother eventually explained to me its because they think we're going to join ISIS. One minute you're a 15 year old Aussie girl who loves Netflix and music and the next minute you're looked at as potential ISIS.
 
 ## Firzana, 17, female, Western Sydney, South African Australian, Muslim
 
@@ -136,7 +134,7 @@ I didn't even want to be born as a Muslim, but I wonder why Muslims that have no
 
 ## Hatice, 17, female, Merrylands, Turkish Australian, Muslim
 
-I feel like the media thrives on putting down Muslims and jump on any article or opportunity to put the words ‘Muslim’ and ‘terrorist’ in their articles. I feel saddened to think that with the way the world is going lately…at this pace I’ll read or see any news report that don’t depict Muslims as bad.
+I feel like the media thrives on putting down Muslims and jump on any article or opportunity to put the words 'Muslim' and 'terrorist' in their articles. I feel saddened to think that with the way the world is going lately...at this pace I'll read or see any news report that don't depict Muslims as bad.
 
 ## Khalid, 17, male, Strathfield, Indian Australian, Muslim
 
@@ -144,11 +142,11 @@ War on Terror. The first time I learnt about terrorism was the Sydney Siege, it 
 
 ## Amira, 16, female, Strathfield, Indonesian Australian, Muslim
 
-The media and Muslims: I feel like the media portrays Muslims horribly. If a Muslim commits a crime, he is called a terrorist, but if a non-Muslim commits a crime, he is called ‘mentally unstable’. When I am in public, I do not hide my identity, I am proud to be a Muslim, but I do get a lot of looks. Once I was at a pet shop, giving my pet dog a shower, and my 20-year old brother was asked by a lady if I was his wife, and they talked about my dog, and told my brother that German Shepherds sniff for bombs from where she comes from. The pet shop was in Strathfield and I was really shocked and upset. I did not know how to respond and I started to feel embarrassed walking around with my older brother.
+The media and Muslims: I feel like the media portrays Muslims horribly. If a Muslim commits a crime, he is called a terrorist, but if a non-Muslim commits a crime, he is called 'mentally unstable'. When I am in public, I do not hide my identity, I am proud to be a Muslim, but I do get a lot of looks. Once I was at a pet shop, giving my pet dog a shower, and my 20-year old brother was asked by a lady if I was his wife, and they talked about my dog, and told my brother that German Shepherds sniff for bombs from where she comes from. The pet shop was in Strathfield and I was really shocked and upset. I did not know how to respond and I started to feel embarrassed walking around with my older brother.
 
 ## Safia, 16, female, Rockdale, Lebanese Australian, Muslim
 
-Growing up in today’s day and age being an Australian Muslim doesn’t affect me. True, there are a lot of racist acts that happen towards me, but I found it a norm now and I've gotten used to it.
+Growing up in today's day and age being an Australian Muslim doesn't affect me. True, there are a lot of racist acts that happen towards me, but I found it a norm now and I've gotten used to it.
 
 ## Rowaida, 17, female, Granville, Lebanese Australian, Muslim
 
@@ -156,7 +154,7 @@ Have I experienced Islamophobia? Yes. Me and my older sister were on the bus, an
 
 ## Hilal, 18, male, Lakemba, Lebanese Australian, Muslim
 
-What does it feel like growing up as an Australian Muslim? There's a lot of expectation, and there's a lot to deal with. Many people would expect many things from you, and you don't know who to please. I grew a beard, well it wasn’t a big beard! But then my mum made me shave it off because after the raids there was all this talk about us guys being radicals and extreme especially in my area you walk in the shops, down the street, and you see a cop and just feel like they see you differently. I grew the beard back again when things died down a bit but it’s always there in the back of your mind whether it makes a difference or not it’s still at the back of your thoughts.  
+What does it feel like growing up as an Australian Muslim? There's a lot of expectation, and there's a lot to deal with. Many people would expect many things from you, and you don't know who to please. I grew a beard, well it wasn't a big beard! But then my mum made me shave it off because after the raids there was all this talk about us guys being radicals and extreme especially in my area you walk in the shops, down the street, and you see a cop and just feel like they see you differently. I grew the beard back again when things died down a bit but it's always there in the back of your mind whether it makes a difference or not it's still at the back of your thoughts.  
 
 ## Rayan, 17, male, Rooty Hill, Lebanese Australian, Muslim
 
@@ -211,8 +209,8 @@ The Lindt Café siege somewhat impacted me as I had to accompany my sister and m
 
 ## Rama, 17, female, Wiley Park, Lebanese/Egyptian Australian, Muslim
 
-I was born on 7th December 2001. Born into a war I didn’t and still hardly understand. We’ve never had a proper class discussion about the war on terror. I think teachers are hesitant to open the topic with us. People outside school judge us Muslims as terrorists. Ever since 9/11 Muslims are the biggest villains in society.  
+I was born on 7th December 2001. Born into a war I didn't and still hardly understand. We've never had a proper class discussion about the war on terror. I think teachers are hesitant to open the topic with us. People outside school judge us Muslims as terrorists. Ever since 9/11 Muslims are the biggest villains in society.  
 
 ## Ali, 18, male, North West Sydney, South Sudanese Australian, Christian
 
-Societies that continue to praise individuality, also continue to crush it before it blossoms. Sometimes schools take part in that. I think it is due to fear you won’t be the kind of person they want you to be come.  
+Societies that continue to praise individuality, also continue to crush it before it blossoms. Sometimes schools take part in that. I think it is due to fear you won't be the kind of person they want you to be come.  
