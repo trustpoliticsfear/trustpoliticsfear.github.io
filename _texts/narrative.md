@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Growing up Muslim"
-author: high school students
+author: High School Students
 editor: Randa Abdel-Fattah
 source: Students' written work
 publication-date: 2019
@@ -10,9 +10,7 @@ published: true
 
 ---
 
-## Editor's note
-
-Students were asked to write a personal reflection on growing up in the war on terror.
+## Writing Prompt: Students were asked to write a personal reflection on growing up in the 'war on terror'.
 
 ---
 
