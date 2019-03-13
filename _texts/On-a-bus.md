@@ -12,9 +12,9 @@ published: true
 ## Ben, 17, male, North-West Sydney, Anglo-Australian, agnostic
 
 It's cold in the winter. My feet are purple with the grip of the morning chill. My cereal is mostly dry due to the lack of milk that was left in the carton. My mom walks in and starts speaking, so I put my spoon in the bowl and take out my earbud.
-##'A man in Canada killed some worshipers in their mosque yesterday," she tells me.
-##I let out a long sigh and think about it for a moment:
-##"We need more milk."
+'A man in Canada killed some worshipers in their mosque yesterday," she tells me.
+I let out a long sigh and think about it for a moment:
+"We need more milk."
 
 ## Laila, 15, female, Greenacre, Egyptian Australian, Muslim
 
