@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Lyrics: "This is Australia"
+title: "Lyrics: This is Australia"
 author: High School Students Sydney
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
@@ -56,10 +56,10 @@ The prompt given to students was to make a poem modelled on [This is America](ht
 
 ## Aisha, 17, female, Greenacre, Afghan Australian, Muslims
 
--	This is Australia
+-   This is Australia
 - People think all Muslims are the same
 - That we're all terrorists or girls in scarves without a brain
--	They hear it all in the news
+-   They hear it all in the news
 - I was born on 11 September 2002
 - First anniversary of 9/11
 - No one in my family forgets my birthday
@@ -91,11 +91,11 @@ The prompt given to students was to make a poem modelled on [This is America](ht
 - Panic in my area
 - A little bit of drugs for you
 - A little cocaine for you (and you)
-- Train station we dealin’
-- In Kmart we stealin’ (and skkkrt)
-- Don’t catch you trippin’ high
-- When you're caught jiggin’ in a lie
-- The parents they be askin’ why
+- Train station we dealin'
+- In Kmart we stealin' (and skkkrt)
+- Don't catch you trippin' high
+- When you're caught jiggin' in a lie
+- The parents they be askin' why
 - So high that we start to fly
 
 # Jordan, 17, male, Castle Hill, Chinese Australian, Buddhist

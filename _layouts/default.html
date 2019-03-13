@@ -29,8 +29,8 @@
       <div class="container content" id="main">
         {{ content }}
       </div>
+      {% include footer.html %}
     </div>
-
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
@@ -67,23 +67,14 @@
       })(document);
     </script>
 
-<!-- Facebook SDK for JavaScript -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109032276-5"></script>
 <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '589495744558280',
-      xfbml      : true,
-      version    : 'v2.6'
-    });
-  };
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+  gtag('config', 'UA-109032276-5');
 </script>
   </body>
 </html>
