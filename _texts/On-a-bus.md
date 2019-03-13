@@ -36,7 +36,7 @@ Another girl whispers back: "They're all the same."
 # Joy, 16, Anglo-Australian, Christian, North-West Sydney
 
 The dim ceiling lights flickered as the bus teetered over another speed bump, jostling me from my momentary nap. Joining voices from the radio accompanied the bleak scenery outside the window. Houses of brick and painted little boxes with driveways that seemed to stretch forever. The man beside me shifted his bag as the bus crossed another bump and proceeded uphill, just as the tiny voices on the radio raised in pitch.
-'If you're coffee didn't wake you up. This most definitely will: A terror attack in London.'
+'If your coffee didn't wake you up. This most definitely will: A terror attack in London.'
 I took a sip of my coffee.
 Nodded off again.
 
