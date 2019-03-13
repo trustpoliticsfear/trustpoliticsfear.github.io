@@ -47,6 +47,10 @@ I feel like for people in my generation, the war terror has kind of just been in
 
 I think anger is productive. It's what changes society. But growing up in today's day and age I still don't know what I'm angry about. I'm still figuring it out.
 
+## Rick, 17, male, North West Sydney, Anglo Australian, religion not stated
+
+Two of my family members were in a terror attack in France at a concert. They, luckily, survived. Due to this, my whole family are afraid of traveling or going to large scale events. Recently I went back to the UK and I wanted to visit London for once, but I couldn't, as my family were frightened. This has become part of my life. I'm no longer able to live it as full as I'm wanting to. We're scared to go to events, e.g. concerts, scared of public transport, limited travel, consistent worries when doing things are going nowhere. Judgment on all Muslims due to their race.
+
 ## Caleb, 17, male, North West Sydney, Anglo-Australian, atheist
 I don't really think about or really care about the war on terror since it has never affected me. I like to mind my own business and let the world sort itself out.
 
@@ -73,7 +77,7 @@ The war on terror is just in the background. It's not my daily life. It's far aw
 
 Although the war on terror has not directly affected me, I know how alert people are towards threats and racism towards many people. I was going towards Martin Place on the day of the Lindt Café siege because I had to perform at Angel Place. The performance was quickly cancelled and we had to go on to the internet to check what was happening. Apart from that, the war on terror hasn't affected me. I have no memory of 9/11, but my parents have told me about it.
 
-## Tim, 17, male, North West Sydney, American-Australian, no religion
+## Tim, 17, male, North West Sydney, American-Australian, religion not stated
 
 I'm a little surprised by how unaffected I am by the war on terror. How normal it is. People who have become desensitized towards it, normalizing the issue in our life.
 
@@ -85,7 +89,7 @@ Some say that it is a thing that requires attention, but it's not a large part o
 
 The war on terror doesn't directly affect us. It saddens me to see a terror attack happen, what seems like every week now. It's like it is the norm. When I am at large events, it's always at the back of my mind at the start. Something needs to be done, but we as students can't help.  
 
-## Josh, 17, male, Merrylands, Anglo-Australian, no religion
+## Josh, 17, male, Merrylands, Anglo-Australian, religion not stated
 
 The war on terror doesn't affect me personally, but obviously affects people of Islamic and Muslim background. This is evident with discrimination seen through the media.
 
@@ -117,6 +121,14 @@ The war and terror means sadness and death, separation of families. It is mental
 ## Bailey, 17, male, North West Sydney, Anglo Australian, agnostic
 
 We're facing a triple threat of terrorism, false fear and disorder. The false information in our society all makes a contribution to the spreading of fear. I think that if I were Muslim, I would feel very sad about the conflict between Muslims and others, but I think Muslim people should be responsible for their own actions, and it doesn't mean all Muslims are in the way to be judged. I would feel sad for the person who has been murdered and I would hope that people don't get involved in conflicts anymore.
+
+## Luke, 17, male, North West Sydney, Anglo Australian, religion not stated
+
+We live next to a Muslim school. So there's a lot of Muslim people in the area. When we walk the dog we see lots of them. So when we hear something like the war on terror, terrorist bombing, it's almost very hard to connect what we're hearing with what we're seeing, because we have nice people walking across the street, doing nothing, just being normal citizens. It becomes a little bit difficult to kind of understand how something like this is transpiring when we see the same kind of people behaving completely normally.
+
+##Tracey, 16, female, North West Sydney, Anglo Australian, Christian
+
+The war on terror has never personally impacted my family at all. It's just a background thing that we feel sorry for, but there's no real immediate impact on us.
 
 ## Monica, 17, female, North West Sydney, Indian Australian, Christian
 

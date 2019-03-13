@@ -20,6 +20,14 @@ I'm the success story refugee. Fetishized when I am grateful. Exceptional in my 
 
 Everyone has had different opinions and beliefs passed onto them. Some people create terror for recognition, propaganda or self-validation. Terrorists will obviously be stopped for the safety of people, but there should be another way of doing it. Not everyone from one culture is a terrorist. Stereotyping has brought more danger towards terrorism as it draws propaganda and hatred to the stereotypical culture. Then it becomes a cycle of hate.  
 
+## Jamilah, 15, female, North Western Sydney, Lebanese Australian, Muslim
+
+My sister and I travel with my mother a lot, to Dubai where my father is working on an ex pat contract. Every time we travel, somehow it's always us that they stop. We've had one-way tickets and those times there's lots of questions, searching our phones, our bags. My mother's English isn't too good so I have to speak to the security staff. I become the advocate for my mother and sister but the irony is I am just as confused and intimidated. My mother eventually explained to me its because they think we're going to join ISIS. One minute you're a 15 year old girl who loves Netflix and music and the next minute you're looked at as maybe ISIS.
+## Firzana, 17, female, North West Sydney, Indian Australian, Muslim
+
+Here in Australia, I am sheltered and protected. I have my own identity as a young Muslim girl, which I cling onto despite the rapid assimilation occurring as I settle into a new society. I'm not a religious person, my family don't do any of the rituals, but we are Muslim. I have personally not been affected by the war on terror, but the repercussions of the effects of such on my community, the Muslim community, I feel deeply within me. These horrific circumstances surrounding those with the same morals and values provokes the
+uncomfortable and confronting realization that I could have been one of those people affected, insulted, or killed, from what Muslims are portrayed as in the media. I have found myself questioning the fundamentals upon which I was brought up. These irrational fears of Islamophobia hurting my family, suddenly don't seem so irrational. Maybe people are justified in hating and fearing us? If this is the extent of fear and fragmentation I have experienced sitting here in Australia with two loving parents, a roof over our heads, and a solid education, I cannot begin to understand how those directly affected feel. And who will suffer the consequences of those feelings?
+
 ## Rafiq, 17, male, Auburn, Turkish Australian, Muslim
 
 The media portrays Muslims as extremists, but that is not the case. Isis does not represent all Muslims.
@@ -93,7 +101,7 @@ My ideal school environment would be if current world issues would be discussed 
 
 ## Elias, 17, male, Western Sydney, Iraqi Australian, Muslim
 
-The War on Terror means to me war for no reason, in which it causes terror and death, e.g. ISIS. I understood terrorism when I was only eight because ISIS had attacked my country and it on the news. I remember when my grandfather almost died in a bombing. That happened to him as he went to get groceries. I don't know what 9/11 is, but I have heard about it on Snapchat. I just know that it was in the U.S. and was an attack. I'm not interested in politics. I'm not passionate about anything, honestly. I just don't care about the state of the world because life is cheap for world leaders. I feel powerless.   
+The War on Terror means to me war for no reason, in which it causes terror and death, e.g. ISIS. I understood terrorism when I was only eight because ISIS had attacked my country and it was on the news. I remember when my grandfather almost died in a bombing. That happened to him as he went to get groceries. I don't know what 9/11 is, but I have heard about it on Snapchat. I just know that it was in the U.S. and was an attack. I'm not interested in politics. I'm not passionate about anything, honestly. I just don't care about the state of the world because life is cheap for world leaders. I feel powerless.   
 
 ## Widyan, 17, female, Western Sydney, Jordanian Australian, Muslim
 
@@ -107,17 +115,6 @@ I feel good most of the time. It's only once there is an attack and the news is 
 ## Rokin, 17, female, Western Sydney, Kurdish Australian, Muslim
 
 Donald Trump and Pauline Hanson both hate Muslims. I can't say I hate them since they are standing up for their own beliefs, and it's their right to believe anything they want. The only thing that gets me angry is that they spread false information about Muslims, and it makes the whole world think Muslims are bad. When I think about how the media represents Muslims as terrorists, causes of problems, blaming every single terrorist attack on Muslims, portraying us as vulgar, violent people I feel helpless. I haven't experienced Islamophobia, possibly because I don't wear the hijab outside of school.
-
-
-## Jamilah, 18, female, North Western Sydney, Lebanese Australian, Muslim
-
-My sister and I travel with my mother a lot, to Dubai where my father is working on an ex pat contract. Every time we travel, somehow it's always us that they stop. We've had one-way tickets and those times there's lots of questions, searching our phones, our bags. My mother's English isn't too good so I have to speak to the security staff. I become the advocate for my mother and sister but the irony is I am just as confused and intimidated. My mother eventually explained to me its because they think we're going to join ISIS. One minute you're a 15 year old Aussie girl who loves Netflix and music and the next minute you're looked at as potential ISIS.
-
-## Firzana, 17, female, Western Sydney, South African Australian, Muslim
-
-Here in Australia, I am sheltered and protected. I have my own identity as a young Muslim girl, which I cling onto despite the rapid assimilation occurring as I settle into a new society. I have personally not been affected by the war on terror, but the repercussions of the effects of such on my community, the Muslim community, I feel deeply within me. These horrific circumstances surrounding those with the same morals, values, and basically ... provokes the
-uncomfortable and confronting realization that I could have been one of those people affected, insulted, or killed, from what Muslims are portrayed as in the media. I have found myself questioning the fundamentals upon which I was brought up. These irrational fears of Islamophobia hurting my family, suddenly don't seem so irrational. Maybe people are justified in hating and fearing us? If this is the amplitude of fear and fragmentation I have experienced sitting here in Australia with two loving parents, a roof over our heads, and a solid education, I cannot begin to understand how those directly affected feel.
-
 
 ## Yas, 17, male, South Western Sydney, Iraqi Australian, Muslim
 
@@ -142,7 +139,7 @@ War on Terror. The first time I learnt about terrorism was the Sydney Siege, it 
 
 ## Amira, 16, female, Strathfield, Indonesian Australian, Muslim
 
-The media and Muslims: I feel like the media portrays Muslims horribly. If a Muslim commits a crime, he is called a terrorist, but if a non-Muslim commits a crime, he is called 'mentally unstable'. When I am in public, I do not hide my identity, I am proud to be a Muslim, but I do get a lot of looks. Once I was at a pet shop, giving my pet dog a shower, and my 20-year old brother was asked by a lady if I was his wife, and they talked about my dog, and told my brother that German Shepherds sniff for bombs from where she comes from. The pet shop was in Strathfield and I was really shocked and upset. I did not know how to respond and I started to feel embarrassed walking around with my older brother.
+The media and Muslims: I feel like the media portrays Muslims horribly. If a Muslim commits a crime, he is called a terrorist, but if a non-Muslim commits a crime, he is called 'mentally unstable'. When I am in public, I do not hide my identity, I am proud to be a Muslim, but I do get a lot of looks. Once I was at a pet shop, giving my pet dog a shower, and my 20-year old brother was asked by a lady if I was his wife, and they talked about my dog, and told my brother that German Shepherds sniff for bombs from where she comes from. I was really shocked and upset. I did not know how to respond and I started to feel embarrassed walking around with my older brother.
 
 ## Safia, 16, female, Rockdale, Lebanese Australian, Muslim
 
@@ -206,6 +203,13 @@ Being a Muslim in this current day is really pressuring. You have so many eyes o
 
 The Lindt Café siege somewhat impacted me as I had to accompany my sister and my mom on public transport for a few weeks afterwards.  
 
+##Cindy, 16, female, Western Sydney, Bangladeshi Australian, Muslim
+
+9/11 is associated with Islam. And Islam is associated with Muslims. And Muslims are associated with the people who are involved in 9/11 so automatically I feel that there’s this lens that people see you through when they find out that you’re Muslim. Like oh this is the religion that was related to 9/11 so let’s just be cautious. I always feel like there’s that kind of back thought, like there’s that consideration.
+
+##Layla, 18, female, Lakemba, Lebanese Australian, Muslim
+
+We used to get scared of the police a lot when we were little. I don't know why. I think it's just growing up being a person of colour, being Arab ... Police are always a scary thing to you. But then, my mum used to tell us, "Don't be scared of the police if you haven't done anything wrong." But some of those terror raids really proved that statement otherwise to me. Even though I felt safe some people that were raided were completely innocent, their families at least. But I still felt like I was more innocent. So, I was scared, but scared for other people, but not that scared for me even though I don't know what I thought made me special compared to them.   
 
 ## Rama, 17, female, Wiley Park, Lebanese/Egyptian Australian, Muslim
 
