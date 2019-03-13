@@ -135,7 +135,7 @@ I feel like the media thrives on putting down Muslims and jump on any article or
 
 ## Khalid, 17, male, Strathfield, Indian Australian, Muslim
 
-War on Terror. The first time I learnt about terrorism was the Sydney Siege, it was all over the television and everyone was talking about it. Soon after, I learnt about 9/11 and other terrorist attacks. I always hear Middle Eastern or Muslim background when something happens or an incident, but when it's the other way around they describe it differently. I had always heard about 9/11 here and there, but the first time I actually read and understood what had happened was on social media/Instagram. I also learnt about it after the Sydney Siege. My cousin who is scarfed came with us to Bondi and I remember her feeling so anxious because there was no scarfed women there. It was mainly because she was receiving a few stares here and there.
+The first time I learnt about terrorism was the Sydney Siege, it was all over the television and everyone was talking about it. Soon after, I learnt about 9/11 and other terrorist attacks. I always hear Middle Eastern or Muslim background when something happens or an incident, but when it's the other way around they describe it differently. I had always heard about 9/11 here and there, but the first time I actually read and understood what had happened was on social media/Instagram. I also learnt about it after the Sydney Siege. My cousin who is scarfed came with us to Bondi and I remember her feeling so anxious because there was no scarfed women there. It was mainly because she was receiving a few stares here and there.
 
 ## Amira, 16, female, Strathfield, Indonesian Australian, Muslim
 
