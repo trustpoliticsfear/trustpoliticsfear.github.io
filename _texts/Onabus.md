@@ -7,7 +7,7 @@ source: Transcripts from high school students
 published: true
 ---
 
-## Writing Prompt: You board a bus on the morning of news of a terrorist attack in another Western country.  
+## Writing Prompt: You board a bus on the morning of news of a terrorist attack in another Western country. Write from somebody else's perspective. 
 
 ## Ben, 17, male, North-West Sydney, Anglo-Australian, agnostic
 
