@@ -1,14 +1,14 @@
 ---
 layout: narrative
 title: The world I’ve grown up in.
-author: High School Students Sydney
+author: Sydney High School Students
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
 published: true
 ---
 
 
-## Student were asked to write a reflection on how they feel about the world they're growing up in particularly in the context of being born closely before or after 9/11 2001.
+## Writing Prompt: Students were asked to write a reflection on how they feel about the world they're growing up in particularly in the context of being born in a post-9/11 world at 'war on terror'.
 
 ## Danielle, 17, female, Blacktown, Anglo Australian, no religion
 
