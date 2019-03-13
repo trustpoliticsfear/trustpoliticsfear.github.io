@@ -14,7 +14,7 @@
 /*
   To apply a different color scheme to the whole scroll down to the themes section for instructions
 */
-$heading-color: #236666;
+$heading-color: #238866;
 
 /*
   General
@@ -37,8 +37,10 @@ body {
 
 html {
   font-family: $main-font;
-  font-size: 16px;
+  font-size: 11px;
   line-height: 1.5;
+  text-align: justify;
+  text-justify: auto;
 }
 
 @media (min-width: 38em) {

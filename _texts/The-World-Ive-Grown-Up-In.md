@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: The world I’ve grown up in.
+title: "The world I've grown up in."
 author: Sydney High School Students
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
@@ -12,8 +12,8 @@ published: true
 
 ## Danielle, 17, female, Blacktown, Anglo Australian, no religion
 
-The world we currently live in is full of white sheep, that cannibalise the black sheep minority willing to speak and make a difference. We are merely bandwagoners that don’t put the effort into swiping and searching for news at the bottom of a melting iceberg, and only scrape the surface of irrelevant celebrity news.
-We only care about politics, and society’s problems, when it’s too late to hear the warnings and they've already affected the society that WE live in because our generation today says “It’s all about me and now”. Do we really care when we’re posting apologetic pictures about terror and social and political trauma, or is it merely about grabbing likes and compliments and validations?
+The world we currently live in is full of white sheep, that cannibalise the black sheep minority willing to speak and make a difference. We are merely bandwagoners that don't put the effort into swiping and searching for news at the bottom of a melting iceberg, and only scrape the surface of irrelevant celebrity news.
+We only care about politics, and society's problems, when it's too late to hear the warnings and they've already affected the society that WE live in because our generation today says "It's all about me and now". Do we really care when we're posting apologetic pictures about terror and social and political trauma, or is it merely about grabbing likes and compliments and validations?
 We continue afterwards scrolling through pictures of puppies, memes, food posts, and never speak of our social and political problems again, until it happens again and a reaction is expected to 'prove' we care.  
 
 ## Drake, 17, male, Mount Druitt, Anglo Australian, Christian
@@ -45,7 +45,7 @@ I feel like for people in my generation, the war terror has kind of just been in
 
 ## Jess, 17, female, Castle Hill, Anglo-Chinese Australian, Christian
 
-I think anger is productive. It’s what changes society. But growing up in today’s day and age I still don’t know what I’m angry about. I’m still figuring it out.
+I think anger is productive. It's what changes society. But growing up in today's day and age I still don't know what I'm angry about. I'm still figuring it out.
 
 ## Caleb, 17, male, North West Sydney, Anglo-Australian, atheist
 I don't really think about or really care about the war on terror since it has never affected me. I like to mind my own business and let the world sort itself out.
@@ -129,14 +129,14 @@ Fake news warps the minds of our citizens. Our wave of information changes into 
 
 ## 17, male, Parramatta, Persian Australian, agnostic
 
-The power of priorities. If you understand someone’s priorities you can understand their actions. Yet with the recent sensationalization of Muslim extremism it’s hard not to wonder why this trend of blame exists. Everyone has  an agenda. As much as it may surprise some, media and politicians lie, the various examples of political persuasion that could almost spill into the ballpark of propaganda is… extreme. Understanding this trend requires perspective: why would those dedicated to providing us with the truth, lie to us? Taking an objective step back allows for a window of clarity. What do the media and politicians want? What are their priorities?
-Politicians are driven in democracy by their priority of gaining the populous’ trust and votes. So it makes sense that politics would revolve around controversial subjects and creating a common cause that gains the most votes. Through the use of blame and associating words such as Islam and terrorism together, politicians create a common enemy which motivates voters to elect a representative who is combatting this common enemy who is apparently a danger to our society.
+The power of priorities. If you understand someone's priorities you can understand their actions. Yet with the recent sensationalization of Muslim extremism it's hard not to wonder why this trend of blame exists. Everyone has  an agenda. As much as it may surprise some, media and politicians lie, the various examples of political persuasion that could almost spill into the ballpark of propaganda is... extreme. Understanding this trend requires perspective: why would those dedicated to providing us with the truth, lie to us? Taking an objective step back allows for a window of clarity. What do the media and politicians want? What are their priorities?
+Politicians are driven in democracy by their priority of gaining the populous' trust and votes. So it makes sense that politics would revolve around controversial subjects and creating a common cause that gains the most votes. Through the use of blame and associating words such as Islam and terrorism together, politicians create a common enemy which motivates voters to elect a representative who is combatting this common enemy who is apparently a danger to our society.
 The same priority applies to the media. Instead of votes- ratings. This explains some media's drive to crucify and sensationalize a community. By creating a story that a nation already believes in and solidifying it with such intensity that anything to the contrary of this narrative is drowned out. Drowned out by a passive audience  acclimatised to increasingly sensationalized and narrow perspectives. Drowned out by a fearful audience, uncomfortable with change.
 
 
 ## Amy, 16, female, North West Sydney, Anglo Australian, no religion
 
-Terrorism is never an accident. Terrorism is a crime. Terrorists are not a ‘sort’ of people. So why does the volume of the television always reverberate louder than the gunshots across the street?
+Terrorism is never an accident. Terrorism is a crime. Terrorists are not a 'sort' of people. So why does the volume of the television always reverberate louder than the gunshots across the street?
 
 
 ## Reem, 17, female, North West Sydney, African Australian, Christian
