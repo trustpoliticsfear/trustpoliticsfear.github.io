@@ -32,12 +32,11 @@ The war on terror. News headlines of terrorists in Syria. George Bush is linked 
 
 ## Talia, 17, female, Guildford, Anglo/Egyptian Australian, Muslim
 
-Growing up in the war on terror in this new world can be scary and confronting at times. Growing up as a Muslim girl in particular, born and raised in Australia, claims accusations and insult all over than media gets daunting and it agitates me. Saudi has become scary. The people that run our world are scary. Yes, this may be something we've all grown up with, but it never fails to amaze me how inconsiderate and how naive, how vein the world can be. I find myself trying to include people more than I already do regardless of sexuality, religion, culture, because I'm on edge. Anticipating comments that won't come from those around me because those around me are just as disgusted by those that stand in front of a camera and feel they have the audacity to share their uneducated opinions. This world is contradictory in that it is the most beautiful yet, ugliest place to be. To live in a world where acceptance, love, appreciation, admiration towards others was all that it was, would be an absolute dream. Hearing accusations towards all Muslims due to the actions of groups such as Isis, is heartbreaking, insulting. Giving a label that doesn't apply as disheartening. Nonetheless, I've learned to search for the beauty in others and share my words and thoughts to those who see through cool eyes. I want to make the world a kinder place. Every war is a crime against humanity.
+Growing up in the war on terror in this new world can be scary and confronting at times. Growing up as a Muslim girl in particular, born and raised in Australia, I have to confront claims, accusations and insults all over the media. It is daunting and it agitates me. Society can be scary. The people that run our world are scary. Yes, this may be something we've all grown up with, it's all we know, but it never fails to amaze me how inconsiderate and how naive, how vain the world can be. I find myself trying to include people more than I already do regardless of sexuality, religion, culture, because I'm on edge, anticipating comments that won't come from those around me because those around me are just as disgusted by those that stand in front of a camera and feel they have the audacity to share their uneducated opinions. This world is contradictory in that it is the most beautiful yet ugliest place to be. To live in a world where acceptance, love, appreciation, admiration towards others was the norm would be an absolute dream. Hearing accusations towards all Muslims due to the actions of groups such as Isis is heartbreaking, insulting to me. I have to prove my humanity. Given a label that doesn't apply to me shakes me from the inside. Nonetheless, my faith teaches me to search for the beauty in others and share my words and thoughts to those who see through cool eyes. I want to make the world a kinder place. Every war is a crime against humanity.
 
 ## Mehmet, 17, male, Auburn, Turkish Australian, Muslim
 
-The link of fear contributed to a greater fear of Muslims within Australia. During airport security, I was the only person pulled aside. Everyone else was allowed through the gates expect me being a young Muslim boy. My bags were checked and messed around. It was embarrassing.
-
+During airport security, I was the only person pulled aside. Everyone else was allowed through the gates expect me being a young Muslim boy. It was so obvious. My bags were checked and messed around. I went through security as an accused not a passenger.  
 
 ## Senem, 17, female, Auburn, Turkish Australian, Muslim
 
@@ -72,7 +71,7 @@ Musings on identity
 
 ## Jalal, 18, male, Auburn, Syrian Australian, Muslim
 
-I was called "Taliban" at school.
+I was called "Taliban" at school. Funny because I'm not even Afghan.
 
 ## Ehsaan, 18, male, North West Sydney, Pakistani Australian, Muslim
 
@@ -88,7 +87,7 @@ I can sometimes express myself freely at school because I have people around me 
 
 ## Abdul, 17, male, North Western Sydney, Palestinian Australian, Muslim
 
-At school, we can express ourselves freely, but we choose not to since we don't want to be judged or be the only one left out by having different points of view.   
+At school, we can express ourselves freely, but we choose not to since we don't want to be judged or be the only one left out by having different points of view.    
 
 ## Nada, 17, female, North Western Sydney, Iraqi Australian, Muslim
 
