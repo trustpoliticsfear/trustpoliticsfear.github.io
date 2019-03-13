@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Growing up Muslim"
-author: High School Students
+author: Sydney High School Students
 editor: Randa Abdel-Fattah
 source: Students' written work
 publication-date: 2019
