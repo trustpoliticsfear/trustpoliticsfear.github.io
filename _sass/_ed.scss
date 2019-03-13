@@ -58,6 +58,9 @@ body {
   margin-bottom: 4rem;
 }
 
+.footer {
+  text-size: 9pt;
+}
 
 /*
   Wrapper
@@ -71,7 +74,11 @@ body {
   width: 100%;
 }
 
-
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 /*
   Container
 
