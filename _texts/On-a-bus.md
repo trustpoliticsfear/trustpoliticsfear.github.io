@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: "Short story: On A bus"
-author: Sydney High school students 
+author: Sydney High school students
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
 published: true
@@ -12,32 +12,33 @@ published: true
 ## Ben, 17, male, North-West Sydney, Anglo-Australian, agnostic
 
 It's cold in the winter. My feet are purple with the grip of the morning chill. My cereal is mostly dry due to the lack of milk that was left in the carton. My mom walks in and starts speaking, so I put my spoon in the bowl and take out my earbud.
-> - {:.indent-1} 'A man in Canada killed some worshipers in their mosque yesterday," she tells me.
-> - {:.indent-1}  I let out a long sigh and think about it for a moment: "We need more milk."
-{:.poetry}
+'A man in Canada killed some worshipers in their mosque yesterday," she tells me.
+I let out a long sigh and think about it for a moment:
+"We need more milk."
 
 ## Laila, 15, female, Greenacre, Egyptian Australian, Muslim
 
-This terror has struck the world with an outpouring of respect being published all over social media this morning. The smell of the old school bus hits my nose and I shut my eyes. I can feel their eyes even though mine are downcast. I can't bear the thought of making eye contact. I can hear their subtle whispers and comments. Through the nose, out the mouth, I breathe, relaxing my racing heart beat. I relax and tilt my head back ever so slightly. I try to block out the surroundings. I am on a bus in a free democratic country. I should be able to avoid judgment and looks, but my simple yet delicate scarf I wear around the rim of my face prevents people from seeing who I truly am. Not a terrorist, not a bad person. I'm a human being with emotions and feelings. I should not be judged for my hijab. I should be judged for my personality. As we arrive, I wait. I will be the last person off the bus to avoid any excess attention that may be drawn to me. This is my price to pay for freedom.
+This terror has struck the world with an outpouring of respect being published all over social media this morning. The smell of the old school bus hits my nose and I shut my eyes. I can feel their eyes even though mine are downcast. I can't bear the thought of making eye contact. I can hear their subtle whispers and comments. Through my nose, out the mouth, I breathe, relaxing my racing heart beat. I relax and tilt my head back ever so slightly. I try to block out the surroundings. I am on a bus in a free democratic country. I should be able to avoid judgment and looks, but my simple yet delicate scarf I wear around the rim of my face prevents people from seeing who I truly am. Not a terrorist, not a bad person. I'm a human being with emotions and feelings. I should not be judged for my hijab. I should be judged for my personality. As we arrive, I wait. I will be the last person off the bus to avoid any excess attention that may be drawn to me. This is my price to pay for freedom.
 
 
 ## Matt, 17, male, North-West Sydney, Anglo-Australian, agnostic
 
 There has been another act of terrorism.
-> - {:.indent-1} "Oh no, not again," I think to myself. I'm sick to my stomach. I know today will be harder than normal. The friends I've managed to get to know will turn their backs on me. I sit on the bus and look out the window. I see all sorts of people walking the streets. White, Asian, African. I spot another Muslim, her head down.
-> - {:.indent-1} There will be no looking up today, for either of us. No chance to feel as others feel. Just guilt that doesn't belong to us.
+"Oh no, not again," I think to myself. I'm sick to my stomach. I know today will be harder than normal. The friends I've managed to get to know will turn their backs on me. I sit on the bus and look out the window. I see all sorts of people walking the streets. White, Asian, African. I spot another Muslim, her head down.
+There will be no looking up today, for either of us. No chance to feel as others feel. Just guilt that doesn't belong to us.
 
 ## Joy, 16, Anglo-Australian, Christian, North-West Sydney
 
 The stares intensify, piercing into the back of my head.
-> - {:.indent-1} I hear them whisper, "Do you think she knew him?".
-> - {:.indent-1} Another girl whispers back: "They're all the same."
+I hear them whisper, "Do you think she knew him?".
+Another girl whispers back: "They're all the same."
 
 # Joy, 16, Anglo-Australian, Christian, North-West Sydney
 
 The dim ceiling lights flickered as the bus teetered over another speed bump, jostling me from my momentary nap. Joining voices from the radio accompanied the bleak scenery outside the window. Houses of brick and painted little boxes with driveways that seemed to stretch forever. The man beside me shifted his bag as the bus crossed another bump and proceeded uphill, just as the tiny voices on the radio raised in pitch.
-> - {:.indent-1} 'If you're coffee didn't wake you up. This most definitely will: A terror attack in London.'
-> - {:.indent-1} I took a sip of my coffee. Nodded off again.
+'If you're coffee didn't wake you up. This most definitely will: A terror attack in London.'
+I took a sip of my coffee.
+Nodded off again.
 
 
 ## Joy, 16, Anglo-Australian, Christian, North-West Sydney
@@ -49,7 +50,7 @@ In the bus. Muslim terrorist attack. Those three words. Three words that can cha
 
 ## Joy, 16, female, North-West Sydney, Anglo-Australian, Christian
 Mohamed sat at the front of the bus, an empty seat to his left. He gazed out the window, watching the way the children laughed as they kicked a ball on the pavement. News of the attack sounded on the radio. Taut brow and pressed lips, he stared at them. Envious.
-> - {:.indent-1} Ignorance is bliss.
+Ignorance is bliss.
 
 ## Joy, 16, Anglo-Australian, Christian, North-West Sydney
 I sit down in my favorite seat, three from the back. The driver turns the radio up as the headlines come on. This morning, a terror attack. I feel the cold stares of the kids around me, as if my hijab is a beacon drawing their attention to me. Already saddened by the news, the stares only contribute. They're probably all heard the word terror and thought Muslim. Did they hear the word? Why are they looking then? After ten never-ending seconds of silence, they go back to talking as though nothing happened, almost completely forgetting the burn of their gaze. The next headline. Some war in the Middle East. The details don't matter. Stares: again. The girl next to me looks scared as if I am to blame. I see her turn to her brother and whisper, "I hate Muslims.". My heart sinks.
@@ -60,13 +61,13 @@ A swarm of hot, humid air, found its way onto the bus as the doors rushed to ope
 ## Joy, 16, North-West Sydney, Anglo-Australian, Christian
 
 My mom turns up the radio as we crawl through traffic. A girl with a heavy backpack and a plaid shirt walks past us as the newsman informs us that a Muslim man has run through a crowd in London. My mom tsks gently and shakes her head. I watch the dirt particles floating in the sunlight.
-> - {:.indent-1} "Always stay close to walls when you walk in the city,' she says to me. 'Always be careful."
-> - {:.indent-1} I nod and shift in my chair. Mum changes the station, adjusts her hijab. She glances at me, pauses.
-> - {:.indent-1} "Maybe you shouldn't wear the hijab today."
-> - {:.indent-1} I nod.
-> - {:.indent-1} My hair falls free as I pull off my veil. I fold it carefully and place it on the backseat. I grab my heavy bag and smooth out my uniform as I hop out of the car.
-> - {:.indent-1} "Be safe," she tells me. "Stay close to walls."
-> - {:.indent-1} I nod.
+"Always stay close to walls when you walk in the city,' she says to me. 'Always be careful."
+I nod and shift in my chair. Mum changes the station, adjusts her hijab. She glances at me, pauses.
+"Maybe you shouldn't wear the hijab today."
+I nod.
+My hair falls as I pull off my veil. I fold it carefully and place it on the backseat. I grab my heavy bag and smooth out my uniform as I hop out of the car.
+"Be safe," she tells me. "Stay close to walls."
+I nod.
 
 ## Dara, 15, Western Sydney, Korean-Australian, Buddhist
 
