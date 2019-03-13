@@ -43,31 +43,31 @@ The link of fear contributed to a greater fear of Muslims within Australia. Duri
 
 Musings on identity
 
-Feeling trapped in a world of expectation
-No room to breathe or try
-Who am I, I ask
-I am confused
-So many labels, all eager to keep me in their views
-I am Muslim  
-Not the best, but trying.
-I am one to enjoy expression
-Maybe even emotion
-I am a girl, an active feminist, often shut down upon by parents
-They seem to make many decisions
-In fact
-My decisions
-not individual, but henceforth collective
-I am tainted by their experiences
-I am not me
-I am a product of my surroundings
-No longer a person of my own
-But a stick of clay moulded by societal claims.
-I am one
-And yet I am also another
-I live two lives
-Breathe two breaths
-I am torn
-Between my thoughts so heavily blemished
+- Feeling trapped in a world of expectation
+- No room to breathe or try
+- Who am I, I ask
+- I am confused
+- So many labels, all eager to keep me in their views
+- I am Muslim  
+- Not the best, but trying.
+- I am one to enjoy expression
+- Maybe even emotion
+- I am a girl, an active feminist, often shut down upon by parents
+- They seem to make many decisions
+- In fact
+- My decisions
+- not individual, but henceforth collective
+- I am tainted by their experiences
+- I am not me
+- I am a product of my surroundings
+- No longer a person of my own
+- But a stick of clay moulded by societal claims.
+- I am one
+- And yet I am also another
+- I live two lives
+- Breathe two breaths
+- I am torn
+- Between my thoughts so heavily blemished
 
 
 ## Jalal, 18, male, Auburn, Syrian Australian, Muslim
