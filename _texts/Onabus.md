@@ -4,6 +4,7 @@ title: Short story: "On A bus"
 author: High school students, Sydney.  
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
+published: true
 ---
 
 ## Writing Prompt: You board a bus on the morning of news of a terrorist attack in another Western country.  

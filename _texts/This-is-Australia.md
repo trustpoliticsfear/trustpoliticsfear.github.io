@@ -4,6 +4,7 @@ title: Lyrics: "This is Australia"
 author: High School Students Sydney
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
+published: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VYOjWnS4cMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

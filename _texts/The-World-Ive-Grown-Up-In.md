@@ -4,9 +4,9 @@ title: The world I’ve grown up in.
 author: High School Students Sydney
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
+published: true
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/wallyg/159455100" title="September 11, 2001"><img src="https://farm1.staticflickr.com/66/159455100_89a4057c18_b.jpg" width="1024" height="683" alt="September 11, 2001"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Student were asked to write a reflection on how they feel about the world they're growing up in particularly in the context of being born closely before or after 9/11 2001.
 

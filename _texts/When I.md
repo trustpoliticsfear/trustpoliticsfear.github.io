@@ -4,6 +4,7 @@ title: "When I..."
 author: High School Students Sydney
 editor: Randa Abdel-Fattah
 source: Transcripts from high school students
+published: true
 ---
 
 ## Rael, 17, male, Blacktown, Filipino Australian, Catholic
