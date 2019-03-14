@@ -27,6 +27,7 @@ This terror has struck the world with an outpouring of respect being published a
 ## Matt, 17, male, North-West Sydney, Anglo-Australian, agnostic
 
 There has been another act of terrorism.
+
 "Oh no, not again," I think to myself.
 
 I'm sick to my stomach. I know today will be harder than normal. The friends I've managed to get to know will turn their backs on me. I sit on the bus and look out the window. I see all sorts of people walking the streets. White, Asian, African. I spot another Muslim, her head down.
