@@ -12,8 +12,11 @@ published: true
 ## Ben, 17, male, North-West Sydney, Anglo-Australian, agnostic
 
 It's cold in the winter. My feet are purple with the grip of the morning chill. My cereal is mostly dry due to the lack of milk that was left in the carton. My mom walks in and starts speaking, so I put my spoon in the bowl and take out my earbud.
+
 'A man in Canada killed some worshipers in their mosque yesterday," she tells me.
+
 I let out a long sigh and think about it for a moment:
+
 "We need more milk."
 
 ## Laila, 15, female, Greenacre, Egyptian Australian, Muslim
@@ -24,20 +27,28 @@ This terror has struck the world with an outpouring of respect being published a
 ## Matt, 17, male, North-West Sydney, Anglo-Australian, agnostic
 
 There has been another act of terrorism.
-"Oh no, not again," I think to myself. I'm sick to my stomach. I know today will be harder than normal. The friends I've managed to get to know will turn their backs on me. I sit on the bus and look out the window. I see all sorts of people walking the streets. White, Asian, African. I spot another Muslim, her head down.
+"Oh no, not again," I think to myself.
+
+I'm sick to my stomach. I know today will be harder than normal. The friends I've managed to get to know will turn their backs on me. I sit on the bus and look out the window. I see all sorts of people walking the streets. White, Asian, African. I spot another Muslim, her head down.
+
 There will be no looking up today, for either of us. No chance to feel as others feel. Just guilt that doesn't belong to us.
 
 ## Joy, 16, Anglo-Australian, Christian, North-West Sydney
 
 The stares intensify, piercing into the back of my head.
+
 I hear them whisper, "Do you think she knew him?".
+
 Another girl whispers back: "They're all the same."
 
 # Joy, 16, Anglo-Australian, Christian, North-West Sydney
 
 The dim ceiling lights flickered as the bus teetered over another speed bump, jostling me from my momentary nap. Joining voices from the radio accompanied the bleak scenery outside the window. Houses of brick and painted little boxes with driveways that seemed to stretch forever. The man beside me shifted his bag as the bus crossed another bump and proceeded uphill, just as the tiny voices on the radio raised in pitch.
+
 'If your coffee didn't wake you up. This most definitely will: A terror attack in London.'
+
 I took a sip of my coffee.
+
 Nodded off again.
 
 
@@ -61,12 +72,19 @@ A swarm of hot, humid air, found its way onto the bus as the doors rushed to ope
 ## Joy, 16, North-West Sydney, Anglo-Australian, Christian
 
 My mom turns up the radio as we crawl through traffic. A girl with a heavy backpack and a plaid shirt walks past us as the newsman informs us that a Muslim man has run through a crowd in London. My mom tsks gently and shakes her head. I watch the dirt particles floating in the sunlight.
+
 "Always stay close to walls when you walk in the city,' she says to me. 'Always be careful."
+
 I nod and shift in my chair. Mum changes the station, adjusts her hijab. She glances at me, pauses.
+
 "Maybe you shouldn't wear the hijab today."
+
 I nod.
+
 My hair falls as I pull off my veil. I fold it carefully and place it on the backseat. I grab my heavy bag and smooth out my uniform as I hop out of the car.
+
 "Be safe," she tells me. "Stay close to walls."
+
 I nod.
 
 ## Dara, 15, Western Sydney, Korean-Australian, Buddhist
