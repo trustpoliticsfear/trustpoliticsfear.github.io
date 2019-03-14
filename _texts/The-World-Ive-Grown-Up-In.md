@@ -16,6 +16,10 @@ The world we currently live in is full of white sheep, that cannibalise the blac
 We only care about politics, and society's problems, when it's too late to hear the warnings and they've already affected the society that WE live in because our generation today says "It's all about me and now". Do we really care when we're posting apologetic pictures about terror and social and political trauma, or is it merely about grabbing likes and compliments and validations?
 We continue afterwards scrolling through pictures of puppies, memes, food posts, and never speak of our social and political problems again, until it happens again and a reaction is expected to 'prove' we care.  
 
+## Jess, 17, female, Castle Hill, Anglo-Chinese Australian, Christian
+
+I think anger is productive. It's what changes society. But growing up in today's day and age I still don't know what I'm angry about. I'm still figuring it out.
+
 ## Drake, 17, male, Mount Druitt, Anglo Australian, Christian
 
 To me the war on terror means a disagreement between religions. From what I know and see, it's a war between Muslims, extremists, and westerners. Personally, I know not all Muslims are extremists. Most of them aren't, but there are groups out there that thrive on terrorist attacks. I don't know why there are these groups and why they do what they do, but I feel restricted in everything I do and say now. When traveling, it is a very long and exhausting process with customs and security, but I know it's for all our protection.
@@ -31,7 +35,7 @@ I think the war on terror is a global issue that is overshadowing other world is
 
 ## Madison, 16, female, Stanhope Gardens, Anglo Australian, no religion
 
-I haven't known a world where there wasn't any terrorism. Knowing what is going on has made me more aware of the world and oblivious to my surroundings, because you'd never know what could happen, and when anything could happen. It means that we've always been a world where people have to live in fear because of this continuous cycle.
+I haven't known a world where there wasn't any terrorism. Knowing what is going on has made me more aware of the world and my surroundings, because you never know what could happen, and when anything could happen. It means that we've always been a world where people have to live in fear because of this continuous cycle.
 
 ## Theresa, 17, female, North West Sydney, Anglo Australian, religion not stated
 
@@ -41,11 +45,7 @@ The war on terror means a war that we all should fight for no matter how much yo
 
 ## Haley, 17, female, Penant Hills, Anglo Australian, Jewish
 
-I feel like for people in my generation, the war terror has kind of just been in the background of our lives. We learned about all the different wars and conflicts in school and we hear about them in the news, but I feel like it has unfortunately become a normal thing. I think because we see it so often and hear about it, we have, as a generation, become immune to the sadness and grief that we all should actually feel. For example, when I see something in the news about an attack or a murder, it's bad, but I feel that the automatic internal reaction is, damn, that sucks, and then you go on living your life without thinking about it again. Also, another thing is that you become really selective about what you feel sadness for. What I mean is that, for example, with the Ariana Grande concert bombing, I feel like there wasn't enough people paying attention to the victims.
-
-## Jess, 17, female, Castle Hill, Anglo-Chinese Australian, Christian
-
-I think anger is productive. It's what changes society. But growing up in today's day and age I still don't know what I'm angry about. I'm still figuring it out.
+I feel like for people in my generation, the war on terror has kind of just been in the background of our lives. We learned about all the different wars and conflicts in school and we hear about them in the news, but I feel like it has unfortunately become a normal thing. I think because we see it so often and hear about it, we have, as a generation, become immune to the sadness and grief that we all should actually feel. For example, when I see something in the news about an attack or a murder, it's bad, but I feel that the automatic internal reaction is, damn, that sucks, and then you go on living your life without thinking about it again. Also, another thing is that you become really selective about what you feel sadness for. What I mean is that, for example, with the Ariana Grande concert bombing, I feel like there wasn't enough people paying attention to the victims.
 
 ## Rick, 17, male, North West Sydney, Anglo Australian, religion not stated
 
