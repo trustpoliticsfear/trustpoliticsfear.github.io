@@ -10,7 +10,7 @@ sortorder: 30
 
 ## FORWARD
 
-This bibliography collates a sample of op -eds, commentary, radio and TV interviews, podcasts and spoken word performances created and authored by Australian Muslims on the subject of Islamophobia, race and 'the War on Terror' from the early 2000s to date.
+This bibliography collates a sample of op-eds, commentary, radio and TV interviews, podcasts and spoken word performances created and authored by Australian Muslims on the subject of Islamophobia, race and 'the War on Terror' from the early 2000s to date.
 
 The purpose of this bibliography is to offer a resource to researchers, teachers, students and journalists that reflects the diversity of opinions and interventions among Australian Muslims. The Muslim authors and creators of the works below come from a variety of professional backgrounds: academics, journalists, social workers, religious scholars, activists, creative artists, writers and lawyers. The range of works clearly demonstrate that there are different conceptual and theoretical approaches among Australian Muslims to the issues of Islamophobia, race, multiculturalism, countering violent extremism and so on. Further, the works reflect a multiplicity of intersectional identities and lived experiences among Australian Muslims.
 
@@ -30,15 +30,15 @@ The bibliography is divided into the following categories and there are hyperlin
 
 -   16 March 2019, The Project, The most dishonest thing would be to say that I'm shocked, Waleed Aly
 -   16 March 2019, The Guardian, A letter to our leaders: as Australian Muslims we live in fear, please remember our pain, Anonymous
--   16 March 2019, The New Arab, We told you the threat is white supremacy. You ignored us. Randa Abdel -Fattah
+-   16 March 2019, The New Arab, We told you the threat is white supremacy. You ignored us. Randa Abdel-Fattah
 -   17 March 2019, ABC Religion and Ethics Online, Christchurch: The price we pay for your freedom to hate, Tamana Daqiq
--   17 March 2019, Overland, Today, we mourn. Tomorrow, we organise, Faisal Al -Asaad
+-   17 March 2019, Overland, Today, we mourn. Tomorrow, we organise, Faisal Al-Asaad
 -   18 March 2019, Whimn, An open letter to our PM, Anam Javed
 -   18 March 2019, TRT World, Why is Islamophobia increasing in Western countries?, Tasneem Chopra
--   18 March 2019, ABC TV The Drum, Panel of Muslim women, Randa Abdel -Fattah, Sara Saleh, Hanan Dover, Diana El -Sayed, Lydia Shelly
+-   18 March 2019, ABC TV The Drum, Panel of Muslim women, Randa Abdel-Fattah, Sara Saleh, Hanan Dover, Diana El-Sayed, Lydia Shelly
 -   18 March 2019, Crikey, The call is coming from inside the house, Ruby Hamad
 -   18 March 2019, SBS Life, Why Islamic burial rites matter for Christchurch shooting victims, Amani Haydar
--   18 March 2019, Independent Australia, Christchurch and Muslim versus non -Muslim terrorism, Bilal Cleland
+-   18 March 2019, Independent Australia, Christchurch and Muslim versus non-Muslim terrorism, Bilal Cleland
 -   19 March 2019, Motabbalism, On Pain, Mohamad Tabbaa.
 -   19 March 2019, The Guardian, After the Christchurch massacre, how do we deal with the trauma and outrage?, Sara Mansour
 -   20 March 2019, ABC Religion and Ethics Online, "Dear Prime Minister ...": An Open Letter to Jacinda Ardern, Summer Joyan
@@ -62,16 +62,16 @@ The bibliography is divided into the following categories and there are hyperlin
 
 -   November 2018, Motabbaalism, Trajectories of Terror: Tracing Muslim Responses, Mohamad Tabbaa
 -   12 November 2018, Sydney Morning Herald, More laws won't stop terrorism but effective prevention is complex, Anne Aly
--   15 November 2018, The Age, Bourke St: I am feeling nothing less than rage, alienation and despair, Randa Abdel -Fattah
+-   15 November 2018, The Age, Bourke St: I am feeling nothing less than rage, alienation and despair, Randa Abdel-Fattah
 -   19 November 2018, ABC Religion and Ethics Online, After the Bourke Street attack, once again Muslims suffer from politicians' double standards, Nancy Umm Rashid
 
 ## Islamophobia and Race
 
 -   17 December 2008, Online Opinion, Not another wave of Islamophobia please!, Alice Aslan
--   2005 -2008, Channel 31, Salam Cafe
+-   2005-2008, Channel 31, Salam Cafe
 -   2008, SBS, Salam Cafe
 -   8 January 2009, Online Opinion, Defining Islamophobia, Alice Aslan
--   29 May 2009, Online Opinion, Anglo -Christian tribalism, Alice Aslan
+-   29 May 2009, Online Opinion, Anglo-Christian tribalism, Alice Aslan
 -   2010, Anne Aly, A Study of Audience Responses to the Media Discourse about the 'other ': The Fear of Terrorism Between Australian Muslims and the Broader Community, Edwin Mellen Press
 -   17 May 2010, Online Opinion, Pauline Hanson's long farewell, Alice Aslan
 -   10 June 2010, Online Opinion, Are Aussies really rednecks?, Alice Aslan
@@ -79,28 +79,28 @@ The bibliography is divided into the following categories and there are hyperlin
 -   2 November 2010, SBS Insight, Fear of Islam
 -   23 May 2011, Online opinion, Osama today, Islam tomorrow: a new chapter of Islamophobia?, Hussein Mohamud and Sahar Ghumkhor
 -   10 November 2011, Online Opinion, Defending multiculturalism, Alice Aslan
--   22 February 2013, Online Opinion, Wilderian far -right an instructive nuisance, Uthman Badar
+-   22 February 2013, Online Opinion, Wilderian far-right an instructive nuisance, Uthman Badar
 -   28 May 2013, Sydney Morning Herald, Critical opinion of Islam ignores the fundamental truths, Mohamad Abdalla
 -   13 August 2013, ABC Q&A, Religion, Faith and Love, Mohamad Abdalla
 -   2013, The Guardian 'Western Sydney deserves to be written about,' Michael Mohammed Ahmed
--   19 March 2014, Overland, Racism and liberal culture: a love story, Faisal Al -Asaad
--   11 July 2014, ABC Religion and Ethics Online, 'Hate Islam, Love Muslims? Exploring the Ambiguities of Islamophobia', Randa Abdel -Fattah
+-   19 March 2014, Overland, Racism and liberal culture: a love story, Faisal Al-Asaad
+-   11 July 2014, ABC Religion and Ethics Online, 'Hate Islam, Love Muslims? Exploring the Ambiguities of Islamophobia', Randa Abdel-Fattah
 -   6 August 2014, The Guardian, Tolerance is bigotry's counterpart in keeping Muslims divided, Mohamad Tabbaa
--   2 September 2014, Overland, Team Australia versus Jihadi dole bludgers, Faisal Al -Asaad
+-   2 September 2014, Overland, Team Australia versus Jihadi dole bludgers, Faisal Al-Asaad
 -   11 September 2014, Stuff, Prime Minister Tony Abbott needs to stick just the facts on Iraq, Irfan Yusuf
 -   12 September 2014, Eureka Street, Picking on Muslims is getting dull, Ruby Hamad
 -   23 September 2014, The Drum, Terrorists aren't models for Islamic piety, Sarah Malik
 -   1 October 2014, ABC Religion and Ethics, "Coercing Confessions: Islamophobia and the Demand for Muslim Loyalty." Yassir Morsi
 -   22 October 2014, ABC Religion and Ethics, The Walking Dead: Separating Fiction from Fact in the West's Depiction of Muslims, Yassir Morsi
 -   17 December 2014, Courier Mail, 'We must not allow radicals and extremists to divide us', Mohamad Abdalla
--   1 February 2015, Al Jazeera English, 'Australia's multicultural project', Randa Abdel -Fattah
--   24 February 2015, ABC Religion and Ethics Online, Including Muslims Out: Semantics and Strategy in Abbott's National Security Address, Randa Abdel -Fattah
--   2 March 2015, Al Jazeera English, 'Tony Abbott's anti -Muslim bigotry exposed', Randa Abdel -Fattah
--   3 March 2015, Overland, The Muslim Menace, Faisal Al -Asaad
+-   1 February 2015, Al Jazeera English, 'Australia's multicultural project', Randa Abdel-Fattah
+-   24 February 2015, ABC Religion and Ethics Online, Including Muslims Out: Semantics and Strategy in Abbott's National Security Address, Randa Abdel-Fattah
+-   2 March 2015, Al Jazeera English, 'Tony Abbott's anti-Muslim bigotry exposed', Randa Abdel-Fattah
+-   3 March 2015, Overland, The Muslim Menace, Faisal Al-Asaad
 -   5 March 2015, ABC Religion and Ethics Online, Abbott's Betrayal of Australian Muslims: We are Right to Expect Better, Mohamad Abdalla
 -   9 March 2015, ABC Australian Story, Just Call Jamal
 -   7 April 2015, The Guardian, "'Reclaiming Australia' from Islam is really about reclaiming whiteness",  Yassir Morsi.
--   2 May 2015, Al Jazeera English, 'Is Halal Food funding terrorism?', Randa Abdel -Fattah
+-   2 May 2015, Al Jazeera English, 'Is Halal Food funding terrorism?', Randa Abdel-Fattah
 -   22 April 2015, The Drum, Stop the dog whistling on radicalisation, Minister, Sarah Malik
 -   24 June 2015, The Guardian, Calling Dylann Roof a 'terrorist' doesn't erase the privilege of his race, Yassir Morsi
 -   12 July 2015, ABC Radio, The Issue: What is it like to be a Muslim Australian right now?,
@@ -108,26 +108,26 @@ The bibliography is divided into the following categories and there are hyperlin
 -   27 July 2015, Online Opinion, Reclaiming 'multicultural' Australia, Alice Aslan
 -   4 September 2015, New Matilda, Could You Look An Asylum Seeker In The Eye As You Push Them Back Out To Sea?, Lydia Shelly
 -   7 September 2015, The Drum, Syrian refugee crisis: This is about humanity, not religion, Sarah Malik
--   15 September 2015, The Guardian, Christian Refugees are fine, Muslims aren't. In a post -racist world, of course that's not racist, Yassir Morsi
+-   15 September 2015, The Guardian, Christian Refugees are fine, Muslims aren't. In a post-racist world, of course that's not racist, Yassir Morsi
 -   23 September 2015, Crikey, Will treating an innocent teen like a terrorist convince him to become one?, Irfan Yusuf
 -   4 October 2015, Mammamia, "Death threats in the virtual world meant I had to worry about my safety in the real one", Mariam Veiszadeh
 -   6 October 2015, Daily Telegraph, Muslims must tackle the terror within, Jamal Rifi
 -   1 November 2015, New Matilda, Muslims, Terror And Scare Quotes: The Media Art Of Feigning Concern, Sumaiya Muyeen
 -   9 November 2015, The Guardian, Real Australians' are a myth and 'saying welcome' to refugees is not enough, Alana Lentin and Omar Bensaidi
 -   15 November 2015, Daily Life, Paris attacks: Is solidarity for white terror victims only?, Ruby Hamad
--   3 December 2015, ABC Religion and Ethics Online, 'Taking Over': The Emotional Dimension of Islamophobia, Randa Abdel -Fattah
+-   3 December 2015, ABC Religion and Ethics Online, 'Taking Over': The Emotional Dimension of Islamophobia, Randa Abdel-Fattah
 -   7 December 2015, Kill Your Darlings, Parallel Lanes: On fear, citizenship and accountability, Omar J. Sakr
 -   9 December 2015, ABC Religion and Ethics Online, One Dimensional Muslims: Why Irresponsible Reporting is Making a Bad Situation Worse, Hanan Dover
--   11 December 2015, Independent Australia, ISIS fails to maintain anti -Muslim bigotry, Bilal Cleland
+-   11 December 2015, Independent Australia, ISIS fails to maintain anti-Muslim bigotry, Bilal Cleland
 -   13 December 2015, Muslims Read Mean Tweets
 -   1 February 2016, ABC Q&A, Great Australians, Manal Younus
 -   2016, TEDxAdelaide How can people of colour best discover themselves? Manal Younus
--   25 February 2016, Sydney Morning Herald, The pervasive and systemic extent of Islamophobia', Randa Abdel -Fattah
+-   25 February 2016, Sydney Morning Herald, The pervasive and systemic extent of Islamophobia', Randa Abdel-Fattah
 -   6 April, 2016, The Conversation, Not Racist, But ...: The Media and Racism, Speaking with: Rhonda Itaoui on navigating the city as a young Muslim
 -   19 April 2016, ABC Religion and Ethics, The Forgotten Geography of Racism: A response to Tim Southphommasane, Yassir Morsi
 -   7 July 2016, Right Now, One nation of fear, Omar Sakr
--   13 July 2016, The Guardian, Racism is not human nature. A work of fiction can help us understand that, Randa Abdel -Fattah
--   20 July 2016, Sydney Morning Herald, Why there's nothing and all to fear about Muslim fear itself, Randa Abdel -Fattah
+-   13 July 2016, The Guardian, Racism is not human nature. A work of fiction can help us understand that, Randa Abdel-Fattah
+-   20 July 2016, Sydney Morning Herald, Why there's nothing and all to fear about Muslim fear itself, Randa Abdel-Fattah
 -   21 July 2016, New Matilda, It's OK To Be Angry At Sonia Kruger's Hate, Lydia Shelly
 -   1 August 2016, SBS, Some advice to Pauline Hanson from a Muslim conservative, Irfan Yusuf
 -   3 August 2016, The Vocal, The unfair scrutiny imposed on Muslim adolescence, Ahmed Yussuf
@@ -141,50 +141,50 @@ The bibliography is divided into the following categories and there are hyperlin
 -   19 January 2017, Junkee, Why Are We Fighting Islamophobia At The Expense Of Indigenous Australians?, Sara Saleh
 -   23 January 2017, SBS NITV, The only way to defeat January 26 is to come together, Eugenia Flynn
 -   2017, SBS TV, The Mosque Next Door
--   28 February 2017, Overland, Insecurity archipelago: liberal Islam and its limits, Faisal Al -Asaad
+-   28 February 2017, Overland, Insecurity archipelago: liberal Islam and its limits, Faisal Al-Asaad
 -   23 March 2017, Crikey, Sorry, Malcolm, but multicultural Australia is not 'united, strong, successful', Irfan Yusuf
 -   29 March 2017, Sydney Morning Herald, Muslims shouldn't feel obliged to apologise for terrorist attacks, Ruby Hamad
--   31 March 2017, Sydney Morning Herald, Why so many counter -terrorism laws if no one can define terrorism?, Irfan Yusuf
+-   31 March 2017, Sydney Morning Herald, Why so many counter-terrorism laws if no one can define terrorism?, Irfan Yusuf
 -   4 April 2017, Crikey, The real danger at Punchbowl High School is the ideological deradicalisation program, Irfan Yusuf
--   24 April 2017, ABC Religion and Ethics Online, 'Malcolm Turnbull's Recycled Rhetoric Pushes Muslims Further to the Margins', Randa Abdel -Fattah
+-   24 April 2017, ABC Religion and Ethics Online, 'Malcolm Turnbull's Recycled Rhetoric Pushes Muslims Further to the Margins', Randa Abdel-Fattah
 -   1 May 2017, Melbourne University Press, Extract from Fighting Hislam, Susan Carland
 -   16 May 2017, Independent Australia, Reclaiming Australia's white supremacy, Bilal Cleland
 -   20 May 2017, Independent Australia, The Turnbull Government, Australian values and the dogwhistle, Bilal Cleland
 -   26 May 2017, Sydney Morning Herald, Terror attacks on kids are nothing new, and Manchester won't be the last, Ruby Hamad
 -   29 May 2017, Pop Box Projects, 'Where are you From?', including Anisa Khan
 -   31 May 2017, Medium, How Cathcart's interview shows us how we relegate voices, Ahmed Yussuf
--   31 May 2017, ABC Books and Arts RN, Randa Abdel -Fattah on race, diversity, coming of age, in Australian literature
+-   31 May 2017, ABC Books and Arts RN, Randa Abdel-Fattah on race, diversity, coming of age, in Australian literature
 -   15 June 2017, The Guardian, Terrorism has changed. Blaming Islam is blinding us to the new reality, Joumanah El Matrah
 -   16 June 2017, TED, Rethinking Privilege, Mariam Veiszadeh
--   21 June 2017, Crikey, Reactions to London terror show language of the far -right has been normalised, Irfan Yusuf
--   23 June, 2017, The Age, Call the Finsbury Park attack what it is: right -wing terrorism, Waleed Aly
--   10 July 2017, ABC Online, Islamophobia: My children hear the ugly reality of racism in the street, it's not up to them to toughen up, Randa Abdel -Fattah
+-   21 June 2017, Crikey, Reactions to London terror show language of the far-right has been normalised, Irfan Yusuf
+-   23 June, 2017, The Age, Call the Finsbury Park attack what it is: right-wing terrorism, Waleed Aly
+-   10 July 2017, ABC Online, Islamophobia: My children hear the ugly reality of racism in the street, it's not up to them to toughen up, Randa Abdel-Fattah
 -   10 July 2017, The Conversation, Islamophobia is still raising its ugly head in Australia, Mehmet Ozalp
 -   28 August 2017, Opinion Online, Binging on racism, Alice Aslan
 -   16 October, 2017, Kill Your Darlings, The Uncomplicated Dead, Omar J. Sakr
 -   6 Nov 2017, SBS Life, What really goes on inside a mosque? Fahad Ali
--   10 November 2017, Crikey, Why I'm done fact -checking Islamophobes, racists and trolls, Shakira Hussein
+-   10 November 2017, Crikey, Why I'm done fact-checking Islamophobes, racists and trolls, Shakira Hussein
 -   22 December 2017, Crikey, Flinders Street attack begets online racist hatred, which tabloids feed on, Irfan Yusuf
 -   8 January 2018, Junkee, Nelly Yoa, And The Media's Infatuation With Contrarian "Community Leaders", Osman Faruqi
 -   8 January 2018, The Guardian, The feared other: Peter Dutton's and Australia's pathology around race, Joumanah El Matrah
 -   31 January 2018, Crikey, How an Islamic fashion exhibition exposed the true Aussie spirit, Shakira Hussein
--   17 -23 February 2018, The Saturday Paper, Representation and diversity, Omar J. Sakr
--   13 April 2018, SBS Life, Yassmin Abdel -Magied and why there's no country for Muslim women, Sarah Malik
+-   17-23 February 2018, The Saturday Paper, Representation and diversity, Omar J. Sakr
+-   13 April 2018, SBS Life, Yassmin Abdel-Magied and why there's no country for Muslim women, Sarah Malik
 -   10 May 2018, The Age, Why are all our dual citizens white? Waleed Aly
 -   11 May 2018, Djed Press, Nas Daily: whitewashing Australia in just 1 minute
 -    Tasnim Mahmoud
 -   May 2018, Wheeler Centre, Not racist but...the media and racism, Karen Farquharson, Usha Rodrigues, Anthony Kelly and Oishee Alam
 -   19 June 2018, TRT World, How racial profiling still persists in Australia's policing system, Ahmed Yussuf
 -   30 June 2018, ABC The Drum, Sara Saleh
--   16 July 2018, ABC Big Ideas, Citizenship, parliament, and the constitution, Randa Abdel -Fattah
--   28 July 2018, The Guardian, Go ahead, white Australia, eat your kebabs while you remind us of your 'values', Randa Abdel -Fattah
--   16 August, 2018, The Age, Will Parliament's Fraser Anning moment simply be self -congratulation? Waleed Aly
+-   16 July 2018, ABC Big Ideas, Citizenship, parliament, and the constitution, Randa Abdel-Fattah
+-   28 July 2018, The Guardian, Go ahead, white Australia, eat your kebabs while you remind us of your 'values', Randa Abdel-Fattah
+-   16 August, 2018, The Age, Will Parliament's Fraser Anning moment simply be self-congratulation? Waleed Aly
 -   16 August 2018, The Guardian, As small men reduce us all to a small nation, we must decide who we want to be, Joumanah El Matrah
--   18 -24 August 2018, The Saturday Paper, Fraser Anning and racist politics, Ruby Hamad
+-   18-24 August 2018, The Saturday Paper, Fraser Anning and racist politics, Ruby Hamad
 -   26 August 2018, ABC Religion and Ethics Online, Islam and the West: How Muslims are constructing a new identity, Adis Duderija
 -   19 September 2018, The New Arab, The Absent Arab, Ruby Hamad
 -   1 October 2018, The Conversation, Why the media needs to be more responsible for how it links Islam and Islamist terrorism, Halim Rane and Audrey Courty
--   20 -26 October 2018, The Saturday Paper, Razing the white flag, Ruby Hamad.
+-   20-26 October 2018, The Saturday Paper, Razing the white flag, Ruby Hamad.
 -   22 October 2018, Crikey, Red meat to the base: why white fragility can't stand being roasted, Shakira Hussein
 -   12 November 2018, ABC PM Linda Mottram, "We need to move beyond words of condemnation", Anne Aly
 -   10 December 201, Djed Press, Storm, Rafeif Ismail.
@@ -198,20 +198,20 @@ The bibliography is divided into the following categories and there are hyperlin
 -   2019, ABC Radio National, 'Sense of Place: Michael Mohammed Ahmad, Western Sydney',
 -   2019, ABC Radio National 'The Lebs', Michael Mohammed Ahmed
 
-## Counter -terrorism and countering violent extremism
+## Counter-terrorism and countering violent extremism
 
 -   2011, Anne Aly, Terrorism and Global Security: Historical and Contemporary Perspectives, Palgrave Macmillan
--   26 August 2014, Al Jazeera, Australia launches anti -terrorism offensive, Miran Hosny
--   22 September 2014, ABC Q&A, Be Alert but not Alarmed, Anne Aly, Randa Abdel -Fattah
+-   26 August 2014, Al Jazeera, Australia launches anti-terrorism offensive, Miran Hosny
+-   22 September 2014, ABC Q&A, Be Alert but not Alarmed, Anne Aly, Randa Abdel-Fattah
 -   3 November 2014, ABC Q&A, National Security: Finding A Balance, Sheikh Wesam Charkawi, Sayed Hussainizada, Lydia Shelly, Dr Mohamad Abdalla, Tarik Houchar, Rebekah Chaudhary, Walid Sabone, Bilal Rauf, Silma Ihram, May Fahmi, Yasin Naqi
 -   8 July 2015, Sydney Morning Herald,  Scapegoating minorities may reap a bitter harvest, Mariam Veiszadeh and Lydia Shelly
 -   29 September 2015, ABC Religion and Ethics, "Islamophobia that 'Keeps on Ticking': Ahmed Mohamed and the West's Control of Time", Yassir Morsi
--   9 October 2015, The Guardian, 'The stigmatisation of Muslims as 'could -be terrorists' has produced a toxic social order', Randa Abdel -Fattah
+-   9 October 2015, The Guardian, 'The stigmatisation of Muslims as 'could-be terrorists' has produced a toxic social order', Randa Abdel-Fattah
 -   12 October 2015, ABC Q&A, Social Cohesion, Offshore Detention & Factions Wesam Charkawi
 -   10 May 2016, The Guardian, Hotline blab: the latest way to police Muslim identity, from the inside and out, Mostafa Rachwani
 -   24 June 2016, The Guardian, Michael Keenan's accusations of Anne Aly are an outrageous betrayal of his role, Lydia Shelly
--   9 -15 June 2018, The Saturday Paper, 'Dutton's secret propaganda unit', Shakira Hussein
--   9 November 2018, The Conversation, How a Sri Lankan student's arrest on terror charges exposes a system built to suspect minorities, Randa Abdel -Fattah
+-   9-15 June 2018, The Saturday Paper, 'Dutton's secret propaganda unit', Shakira Hussein
+-   9 November 2018, The Conversation, How a Sri Lankan student's arrest on terror charges exposes a system built to suspect minorities, Randa Abdel-Fattah
 
 ## Global war on terror
 
@@ -228,12 +228,12 @@ The bibliography is divided into the following categories and there are hyperlin
 
 ## Gendered Islamophobia/Sexuality
 
--   2005, 'Living In A Material World', The Lure of Fundamentalism. Griffith Review Edition, Randa Abdel -Fattah
--   2008, Divided Nation. Griffith Review, Edition 15, 'Of Middle Eastern Appearance', Randa Abdel -Fattah
+-   2005, 'Living In A Material World', The Lure of Fundamentalism. Griffith Review Edition, Randa Abdel-Fattah
+-   2008, Divided Nation. Griffith Review, Edition 15, 'Of Middle Eastern Appearance', Randa Abdel-Fattah
 -   16 January 2009, Crikey, Another storm in a hijab, Shakira Hussein
 -   16 July 2009, Crikey, The burqah ban debate: what's really at stake, Durkhanai Ayubi
--   20 July 2009, Online Opinion, What -not -to -wear imperialism, Alice Aslan
--   28 January 2010, Sydney Morning Herald, Muslim feminists deserve to be heard, Randa Abdel -Fattah and Susan Carland
+-   20 July 2009, Online Opinion, What-not-to-wear imperialism, Alice Aslan
+-   28 January 2010, Sydney Morning Herald, Muslim feminists deserve to be heard, Randa Abdel-Fattah and Susan Carland
 -   15 March 2011, Muslims against homophobia at Sydney Mardi Gras, Alice Aslan
 -   5 April 2013, Right Now, The challenges of being a Muslim woman in a multicultural society, Ghena Krayem
 -   7 May 2013, Overland, Saving the Muslim woman, yet again, Sahar Ghumkhor and Yassir Morsi
@@ -242,11 +242,11 @@ The bibliography is divided into the following categories and there are hyperlin
 -   2 October 2014, Want an Insight Into Life Under the Muslim Veil? How About Asking?, Somayra Ismailjee
 -   6 October 2014, 3cr FM, Islamophobia in Australia - - Women on the Line interview, Ayan Mohamud and Soreti Kadir
 -   19 October 2014, ABC News, 'Wearing the niqab, "it's done with full freedom of choice", Anisa Khan
--   25 May 2015, Right Now, Of "Middle -Eastern Appearance", Omar Bensaidi
+-   25 May 2015, Right Now, Of "Middle-Eastern Appearance", Omar Bensaidi
 -   13 November 2015, Sydney Morning Herald, Koran guided me in how to turn tweets from trolls into a force for good, Susan Carland
 -   13 December 2015, Muslims Read Mean Tweets
--   23 January 2016, New Matilda, 'The Cologne Attacks And The Big White Elephant In The Room', Randa Abdel -Fattah
--   10 March 2016, Inside Story, Victims and suspects: the catch -22 of being a Muslim woman in Australia, Shakira Hussein
+-   23 January 2016, New Matilda, 'The Cologne Attacks And The Big White Elephant In The Room', Randa Abdel-Fattah
+-   10 March 2016, Inside Story, Victims and suspects: the catch-22 of being a Muslim woman in Australia, Shakira Hussein
 -   19 May 2016, Online Opinion, From victims to suspects: Muslim women since 9/11, Alice Aslan
 -   30 May 2016, ABC Compass, Hana Assafiri on speed dating a muslim
 -   6 April 2016, ABC Radio, From Victims to Suspects: Shakira Hussein on Muslim women
@@ -255,53 +255,53 @@ The bibliography is divided into the following categories and there are hyperlin
 -   24 November 2016, ABC Radio National, 'In my shoes part 2: Eugenia, Ruby and Oishee', Sarah Malik, Eugenia Flynn, Ruby Hamad, Oishee Alam
 -   27 September 2016, Catalogue, Hana Assafiri interviewed by Helen McCue in the Australian Muslim women oral history project
 -   4 February 2017, SBS, Why there is no such thing as a harmless stereotype about black men, Ahmed Yussuf
--   21 February 2017, The Guardian, Yassmin Abdel -Magied said nothing wrong. She should not have to face this venom, Jumanah El -Matrah
+-   21 February 2017, The Guardian, Yassmin Abdel-Magied said nothing wrong. She should not have to face this venom, Jumanah El-Matrah
 -   16 March 2017, The Guardian, The hijab ruling is a ban on Muslim women, Iman Amrani
 -   7 August 2017, Middle East Eye, The veil in anxious times, Sahar Ghumkhor
 -   18 August 2017, ABC Opinion Online, Pauline Hanson's burka stunt disproved her point: you can safely wear a burka in Parliament, Lydia Shelly
--   11 October 2017, The Guardian, Intersectionality? Not while feminists participate in pile -ons, Ruby Hamad and Celeste Liddle
+-   11 October 2017, The Guardian, Intersectionality? Not while feminists participate in pile-ons, Ruby Hamad and Celeste Liddle
 -   7 November, 2017, Whimn, I'm A Muslim. This Is The Conversation We Need To Be Having, Lamisse Hamouda
 -   1 February 2018, The Guardian, As Australian Muslim women we don't have to be told what we can wear, Lydia Shelly
--   1 February 2018, New Matilda, Free Muslim Women... To Wear Whatever Caroline Overington Says They Should, Rawand Al -Hinti
+-   1 February 2018, New Matilda, Free Muslim Women... To Wear Whatever Caroline Overington Says They Should, Rawand Al-Hinti
 -   23 February 2018, The Guardian, As Muslim women we don't need you to speak for us, and we don't need to be saved, Ghena Krayem
 -   Autumn 2018, Meanjin, Any Percentage of a Heart Is Still a Heart, Omar Sakr
 -   3 May 2018, SBS, Can we get more Muslim heroes please? Mehal Krayem
--   23 April  2018, ACRAWSA Blog, Review: Boko Haram Huntress (Al -Jazeera), Sumaiya Muyeen
+-   23 April  2018, ACRAWSA Blog, Review: Boko Haram Huntress (Al-Jazeera), Sumaiya Muyeen
 -   13 June 2018, Overland, Muslim women and the neoliberal logic of 'empowerment', Sumaiya Muyeen
 -   22 August 2018, Overland, The limits of sisterhood: on gendered and racial violence, Sumaiya Muyeen
 -   7 September 2017, ABC News, I lost my mum to domestic violence but I won't let fear or racists keep me silent, Amani Haydar
 -   26 September 2017, The Geneva Centre for Human Rights Advancement, Women's rights in the Arab region: between myth and reality, Susan Carland
 -   2018, UNSW Arts & Social Sciences Podcast: 'Race and Masculinity featuring Michael Mohammed Ahmad and Omar Sakr'. Michael Mohammed Ahmed
 -   2019, ABC Radio National, Podcast: 'Dr Michael Mohammed Ahmad', Conversations with Writers Michael Mohammed Ahmed
--    21 February 2019, ABC Late Night Live, Arab Australian Feminism, Sara Saleh and Randa Abdel -Fattah
+-    21 February 2019, ABC Late Night Live, Arab Australian Feminism, Sara Saleh and Randa Abdel-Fattah
 
 ## Free speech debates
 
 -   17 September 2012, The Conversation Sydney riots: Muslim responses to provocation must be more considered, Samina Yasmeen
--   17 September 2012, 'I heard them mutter "bloody Muslims"...', Randa Abdel -Fattah
+-   17 September 2012, 'I heard them mutter "bloody Muslims"...', Randa Abdel-Fattah
 -   19 September 2012, Crikey, Why Muslim leaders must change the rhetoric, Irfan Yusuf
 -   27 May 2013, ABC Religion and Ethics Online, Free Speech, Vilification and Power: The 2013 PEN Free Voices Lecture, Waleed Aly
--   12 January 2015, ABC Religion and Ethics Online, The Privilege to Insult: Freedom of Speech and its Contradictions' , Randa Abdel -Fattah
+-   12 January 2015, ABC Religion and Ethics Online, The Privilege to Insult: Freedom of Speech and its Contradictions' , Randa Abdel-Fattah
 -   14 January 2015, Right Now, On Free Speech and Charlie Hebdo, Somayra Ismailjee
 -   12 February 2015, Media Diversified, Western Apologies, Somayra Ismailjee
--   23 February 2015, The Guardian, Hizb ut -Tahrir: is it now an offence to oppose government policy? If so, let it be said plainly, Uthman Badar
+-   23 February 2015, The Guardian, Hizb ut-Tahrir: is it now an offence to oppose government policy? If so, let it be said plainly, Uthman Badar
 -   23 February 2015, The Guardian, Political correctness is more than an excuse for phoney martyrs to defend, Yassir Morsi
--   February 25 - - March 3, 2017, The Saturday Paper, 'Yassmin Abdel -Magied and the Australian crucible', Susan Carland
+-   February 25 - - March 3, 2017, The Saturday Paper, 'Yassmin Abdel-Magied and the Australian crucible', Susan Carland
 -   28 March 2017, IQ2 Debate, Has political correctness backfired? , Tasneem Chopra
--   6 June 2017, The Guardian,  'What are they so afraid of? I'm just a young brown Muslim woman speaking my mind', Yassmin Abdel -Magied
--   6 July 2017, Sydney Morning Herald, 'Despite the rhetoric, here's why Islamophobes don't want Yassmin to go', Randa Abdel -Fattah
--   21 July 2017, ABC Religion and Ethics Online, What's Islamic Law Doing at Sydney University? An Open Letter to the Daily Telegraph, Randa Abdel -Fattah
+-   6 June 2017, The Guardian,  'What are they so afraid of? I'm just a young brown Muslim woman speaking my mind', Yassmin Abdel-Magied
+-   6 July 2017, Sydney Morning Herald, 'Despite the rhetoric, here's why Islamophobes don't want Yassmin to go', Randa Abdel-Fattah
+-   21 July 2017, ABC Religion and Ethics Online, What's Islamic Law Doing at Sydney University? An Open Letter to the Daily Telegraph, Randa Abdel-Fattah
 -   23 - - 29 June 2018, The Saturday Paper, What is political correctness?, Omar J. Sakr
--   28 August 2018, The Guardian, I wanted to make jokes about my destroyed career, but all I felt was grief, Yassmin Abdel -Magied
+-   28 August 2018, The Guardian, I wanted to make jokes about my destroyed career, but all I felt was grief, Yassmin Abdel-Magied
 -   19 February 2019, SBS, 'Our long history of cartoons demonising foreigners', Safdar Ahmed
 
 ## Research Reports:
 
--   23 November 2013, Hizb ut -Tahrir Australia, Government intervention in the Muslim community, report.
+-   23 November 2013, Hizb ut-Tahrir Australia, Government intervention in the Muslim community, report.
 -   2017, Islamophobia Register Australia/ISRA, Islamophobia in Australia Report
 -   (2015) Kevin Dunn, Rosalie Atie, Virginia Mapedzahama, Mehmet Ozalp, Adem F. Aydogan, The resilience and ordinariness of Australian Muslims: Attitudes and experiences of Muslims Report
 
-## Academic Publications, Non -Fiction, Memoirs and Novels:
+## Academic Publications, Non-Fiction, Memoirs and Novels:
 
 Academic
 (*Please note this is a small sample. Please submit missing citations.*)
@@ -324,7 +324,7 @@ Academic
 -   (2010) Samina Yasmeen (editor), Muslims In Australia: The Dynamics of Exclusion and Inclusion, MUP
 -   (2012) Mehmet Ozlap, Islam between tradition and modernity: An Australian perspective, Barton Books.
 -   (2012) Fethi Mansouri (editor), Vince Marotta (editor) Muslims in the West and the Challenges of Belonging, Melbourne University Press
--   (2013) Han, E. & Rane, H. Making Australian Foreign Policy on Israel -Palestine: Media
+-   (2013) Han, E. & Rane, H. Making Australian Foreign Policy on Israel-Palestine: Media
              Coverage, Public Opinion and Interest Groups, Melbourne University Press, Carlton.
 -   (2014) Rane, H. Ewart, J. & Martinkus, J. Media Framing of the Muslim World: Conflicts, Crises and Contexts, Palgrave Macmillan, New York.
 -   (2015) Nora Amath, The Phenomenology of Community Activism: Muslim Civil Society Organisations in Australia, Melbourne University Press
@@ -333,10 +333,10 @@ Academic
 -   (2017) Susan Carland Hislam, Melbourne University Press
 -   (2017) Yassir Morsi Radical Skins, Moderate Masks, Rowman & Littlefield
 -   (2017) Sherene Idriss, Young Migrant Identities: Creativity and Masculinity, Routledge
--   (2017) Iner, D & Esposito, J (Eds.) Cross -pollination of Radicalisation and Islamophobia: Roots, Relationships and Implications, Springer
+-   (2017) Iner, D & Esposito, J (Eds.) Cross-pollination of Radicalisation and Islamophobia: Roots, Relationships and Implications, Springer
 -   (2018) Oishee Alam Facing Race: White Australian Converts to Islam, Melbourne University Press
 -   (2018) Mehal Krayem Heroes, Villains and the Muslim Exception, Melbourne university Press
--   (2018)  Randa Abdel -Fattah  Islamophobia and Everyday Multiculturalism, Routledge
+-   (2018)  Randa Abdel-Fattah  Islamophobia and Everyday Multiculturalism, Routledge
 -   (2018) Duderija, A. & Rane, H.  Islam and Muslim Communities in the West. Palgrave Macmillan.
 
 ### Non-Fiction and Memoir
@@ -353,26 +353,26 @@ Academic
 -   (2014) Amal Awad, The Incidental Muslim
 -   (2015) Osamah Sami, Good Muslim Boy, Hardie Grant Books
 -   (2017) Amal Awad, Beyond Veiled Cliches, Penguin
--   (2017) Yassmin Abdel -Magied, Yassmin's Story, Penguin Books
+-   (2017) Yassmin Abdel-Magied, Yassmin's Story, Penguin Books
 -   (2018) Nadia Jamal, Headstrong Daughters: Inspiring Stories From The New Generation Of Australian Muslim Women, Allen & Unwin
 -   (2018) Anne Aly, Finding My Place, Harper Collins
 -   (2019) Eds Maxine Beneba Clarke, Magan Magan, Ahmed Yussuf, Growing Up African in Australia, Black Inc (included on this list as some of the contributors to the anthology are Muslim)
 
 ### Novels/Poetry Collection
 
--   (2005) Randa Abdel -Fattah, Does My Head Look Big In This?, Pan Macmillan
--   (2006) Randa Abdel -Fattah, Ten Things I Hate About Me, Pan Macmillan
--   (2009) Randa Abdel -Fattah, Where the Streets Had A Name, Pan Macmillan
--   (2010) Randa Abdel -Fattah, Noah's Law, Pan Macmillan
--   (2012) Randa Abdel -Fattah, No Sex In The City, Pan Macmillan
+-   (2005) Randa Abdel-Fattah, Does My Head Look Big In This?, Pan Macmillan
+-   (2006) Randa Abdel-Fattah, Ten Things I Hate About Me, Pan Macmillan
+-   (2009) Randa Abdel-Fattah, Where the Streets Had A Name, Pan Macmillan
+-   (2010) Randa Abdel-Fattah, Noah's Law, Pan Macmillan
+-   (2012) Randa Abdel-Fattah, No Sex In The City, Pan Macmillan
 -   (2009) Amra Pajalic, The Good Daughter, Text Publishing
 -   (2011) Amal Awad, Courting Samira
--   (2011) Randa Abdel -Fattah, Buzz Off, Scholastic
+-   (2011) Randa Abdel-Fattah, Buzz Off, Scholastic
 -   (2014) Amra Pajalic, Amir: Friend on Loan, The Third Space
 -   (2014) Michael Mohammed Ahmad, The Tribe, Giramondo
 -   (2014) Omar Musa, Here Come the Dogs, Penguin
 -   (2015) Amal Awad, This Is How You Get Better
--   (2016) Randa Abdel -Fattah, When Michael Met Mina, Pan Macmillan
+-   (2016) Randa Abdel-Fattah, When Michael Met Mina, Pan Macmillan
 -   (2016) Sara Saleh, Wasting the Milk in Summer
 -   (2016)  Melati Lum, Ayesha Dean: The Istanbul Intrigue
 -   (2017) Omar Sakr, These Wild Houses, Cordite Books
@@ -380,7 +380,7 @@ Academic
 -   (2018) Michael Mohammed Ahmad, The Lebs, Hachette
 -   (2018) Maryam Azam, The Hijab Files, Giramondo
 -   (2019) Melati Lum, Ayesha Dean: The Seville Secret
--   (2019) Yassmin Abdel -Magied, You Must Be Layla, Penguin Books
+-   (2019) Yassmin Abdel-Magied, You Must Be Layla, Penguin Books
 -   (2019) Omar Sakr, The Lost Arabs, University Queensland Press
 
 ## Stand Up Comedy
@@ -388,9 +388,9 @@ Academic
 -   28 November 2013, Aamer Rahman - Reverse Racism
 -   24 November 2016, ABC RN Drive, Aamer Rahman on Pauline Hanson and 'reverse racism'
 -   14 November 2017, Aamer Rahman: Is it really ok to punch nazis?
--   13 April 2019, Nazeem Hussain - Stand -up for ChristChurch Benefit Event
+-   13 April 2019, Nazeem Hussain - Stand-up for ChristChurch Benefit Event
 -   Fear of a Brown Planet: [https://www.facebook.com/fearofabrownplanet/](https://www.facebook.com/fearofabrownplanet/)
--   Fear of a Brown Planet: [https://www.abc.net.au/tv/programs/fear -of -a -brown -planet/](https://www.abc.net.au/tv/programs/fear -of -a -brown -planet/)
+-   Fear of a Brown Planet: [https://www.abc.net.au/tv/programs/fear-of-a-brown-planet/](https://www.abc.net.au/tv/programs/fear-of-a-brown-planet/)
 -   Legally Brown, SBS One: [https://www.youtube.com/channel/UCgyJfe317pjTAajKiEirc1A](https://www.youtube.com/channel/UCgyJfe317pjTAajKiEirc1A)
 -   Nazeem Hussein, Netflix Special Comedians of the World: [http://nazeemhussain.com/](http://nazeemhussain.com/)
 
@@ -406,7 +406,7 @@ Academic
 -   Nour Abouzeid - 'Integrate'
 -   Nour Abouzeid - Talking Politics
 -   Anisa  Nandaula - Judgment Day
--   Anisa  Nandaula - [https://www.youtube.com/channel/UCdN -scUnALoLfcZpb1d7rUA](https://www.youtube.com/channel/UCdN -scUnALoLfcZpb1d7rUA)
+-   Anisa  Nandaula - [https://www.youtube.com/channel/UCdN-scUnALoLfcZpb1d7rUA](https://www.youtube.com/channel/UCdN-scUnALoLfcZpb1d7rUA)
 
 ### Bankstown Poetry Slam
 
@@ -427,7 +427,7 @@ Academic
 -   "Hit Me With Your Prejudice" - Yusra
 -   "Anatomy of Terror" - Jenny
 -   "If They Can Pronounce Shakespeare" - Yasmine
--   Blame the Muslims - Mohammad Naqi -
+-   Blame the Muslims - Mohammad Naqi-
 -   "Privilege" - Jess (Feature Poet)
 -   "Mr. War (Palestine)" - Pola
 -   F Tha Silence - Sharnay
