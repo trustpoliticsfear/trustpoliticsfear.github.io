@@ -408,13 +408,13 @@ Academic
 -   Anisa  Nandaula- Judgment Day
 -   Anisa  Nandaula- [https://www.youtube.com/channel/UCdN-scUnALoLfcZpb1d7rUA](https://www.youtube.com/channel/UCdN-scUnALoLfcZpb1d7rUA)
 
-### Bankstown Poetry Slam:
+### Bankstown Poetry Slam
 
 -   'Inshallah'- Sara Saleh
 -   "My Australia" - Sara Mansour
--   "Moey From Da Area" - Abir | Bankstown Poetry Slam
+-   "Moey From Da Area" - Abir \| Bankstown Poetry Slam
 -   "Made A Poet" - Rojé Ndayambaje
--   "This Is What A Feminist Looks Like" - Iman Etri | Grand Slam
+-   "This Is What A Feminist Looks Like" - Iman Etri \| Grand Slam
 -   WHERE I'M FROM / LAYLA MKH
 -   Reclaim Australia" - Bilal, Sara & Yas
 -   "First World Problems" - Hannadi
@@ -434,4 +434,4 @@ Academic
 -   "Call Me By My Name" - Food Court
 -   "Blood" - Bilal
 -   "They Call Me The Good Muslim" - Layla
--   Australia, I love you. But ... | Sara Saleh & Imran Etri
+-   Australia, I love you. But ... - Sara Saleh & Imran Etri
