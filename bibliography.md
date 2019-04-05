@@ -2,6 +2,7 @@
 layout: page
 title: Bibliography of Australian Muslim voices in the War on Terror
 shortTitle: Bibliography
+sortorder: 30
 ---
 
 
