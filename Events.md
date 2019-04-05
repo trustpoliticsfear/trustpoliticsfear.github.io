@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: page
 title: Recording of panel at Macquarie University 3 April 2019: ‘Can the Subaltern Speak?’ Navigating anti-racism, academia and advocacy as a person of colour today
 author: Randa Abdel-Fattah
 editor: Randa Abdel-Fattah
