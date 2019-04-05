@@ -304,7 +304,7 @@ The bibliography is divided into the following categories and there are hyperlin
 ## Academic Publications, Non -Fiction, Memoirs and Novels:
 
 Academic
-(** Please note this is a small sample. Please submit missing citations.)
+(*Please note this is a small sample. Please submit missing citations.*)
 
 -   (2001) Abdullah Saeed and Shahram Akbarzadeh, Muslim Communities in Australia
 -   (2002) Bilal Cleland The Muslims in Australia: A Brief History Islamic Council of Victoria
@@ -339,7 +339,7 @@ Academic
 -   (2018)  Randa Abdel -Fattah  Islamophobia and Everyday Multiculturalism, Routledge
 -   (2018) Duderija, A. & Rane, H.  Islam and Muslim Communities in the West. Palgrave Macmillan.
 
-### Non -Fiction and Memoir
+### Non-Fiction and Memoir
 
 -   (1995) Hanifa Deen, Caravanserai, Allen & Unwin
 -   (2005) Nadia Jamal and Taghred Chandab, The Glory Garage: Growing up Lebanese Muslim in Australia, Allen & Unwin
@@ -383,7 +383,7 @@ Academic
 -   (2019) Yassmin Abdel -Magied, You Must Be Layla, Penguin Books
 -   (2019) Omar Sakr, The Lost Arabs, University Queensland Press
 
-## 12.Stand Up Comedy
+## Stand Up Comedy
 
 -   28 November 2013, Aamer Rahman - Reverse Racism
 -   24 November 2016, ABC RN Drive, Aamer Rahman on Pauline Hanson and 'reverse racism'
