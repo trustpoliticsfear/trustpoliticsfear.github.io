@@ -8,8 +8,8 @@ publication-date: 2019
 published: true
 ---
 
-## Events
-## Prompted by interviews for high school and university students on the subject of politics and activism in today's social and political environment, I organised a panel discussion at Macquarie University on 3 April 2019.
+
+Prompted by interviews for high school and university students on the subject of politics and activism in today's social and political environment, I organised a panel discussion at Macquarie University on 3 April 2019.
 
 The event was chaired by Dr Alana Lentin and supported by the Australian Critical Race and Whiteness Studies Association (ACRWSA).
 
