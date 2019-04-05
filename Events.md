@@ -16,14 +16,15 @@ Prompted by interviews for high school and university students on the subject of
 The event was chaired by Dr Alana Lentin and supported by the Australian Critical Race and Whiteness Studies Association (ACRWSA).
 
 
-A recording of the event is available here:  https://echo360.org.au/media/7b61a4c4-f056-4518-a313-6fc66af0755b/public
+A recording of the event is available here:  [https://echo360.org.au/media/7b61a4c4-f056-4518-a313-6fc66af0755b/public](https://echo360.org.au/media/7b61a4c4-f056-4518-a313-6fc66af0755b/public)
 
-Event blurb:
+## Event blurb:
+
 Anti-racism is often dismissed as political correctness or identity politics. To speak out and act against racism is to attract accusations of 'playing the race card' or 'shutting down free speech'. At a time when collective mobilization that makes demands on the state is delegitimized in favour of individualised activism that celebrates racial illiteracy, academics and activists are challenged to build new modes of participation, activism and political communities. What are the stakes, the threats, the challenges, the lessons, the hopes and goals of anti-racism work today? In this panel discussion, academics and activists reflect on their experiences of 'speaking out' against racism and injustice.
 
 Chaired by Dr Alana Lentin, Associate Professor in Cultural and Social Analysis at Western Sydney University. She works on the critical theorization of race, racism and antiracism. She is co-editor of the Rowman and Littlefield International book series, Challenging Migration Studies and the President of the Australian Critical Race & Whiteness Studies Association (2017-19). In 2017, she was Hans Speier Visiting Professor of Sociology at the New school for Social Research in New York.
 
-Panelists:
+## Panelists:
 
 Amy Thunig is a proud Gamilaroi woman, raised on Darug and Awabakal lands. An associate lecturer in the Department of Educational Studies at Macquarie University, Amy holds a Masters Degree in Teaching, and is currently undertaking her PhD titled 'sovereign women: why academia?'
 
