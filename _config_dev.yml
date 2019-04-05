@@ -4,8 +4,8 @@
 title:               Trust, Politics and Fear 
 tagline:             'Growing up in the Age of Terror'
 description:         'Stories...'
-url:                 'http://127.0.0.1:4000'
-baseurl:             '/test' # no trailing slash
+url:                 'http://localhost:4000'
+baseurl:             '' # no trailing slash
 
 # About/contact
 author:

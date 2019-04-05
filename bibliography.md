@@ -23,10 +23,10 @@ The bibliography is divided into the following categories and there are hyperlin
 ## Contents
 {:.no_toc}
 
-* ToC
+1. ToC
 {:toc}
 
-## 1. Christchurch, New Zealand
+## Christchurch, New Zealand
 
 -   16 March 2019, The Project, The most dishonest thing would be to say that I'm shocked, Waleed Aly
 -   16 March 2019, The Guardian, A letter to our leaders: as Australian Muslims we live in fear, please remember our pain, Anonymous
@@ -47,25 +47,25 @@ The bibliography is divided into the following categories and there are hyperlin
 -   26 March 2019, Meanjin, Political Correctness - -- From The Other Side, Bashi Hazar
 -   28 March 2019, Independent Australia, White supremacist terror: The new Australian export, Bilal Cleland
 
-## 2. Lindt Cafe, Sydney
+## Lindt Cafe, Sydney
 
 -   17 December 2014, The Guardian, Before he flew the black flag, Monis was just a desperate man with a violent past, Yassir Morsi
 -   17 December 2014, Sydney Morning Herald, Sydney siege: why my heart sank when I saw an Islamic flag, Mariam Veiszadeh
 -   18 December 2014, Overland, Where exactly are we riding? Mohamad Tabbaa
 -   29 December 2014, Sydney Morning Herald, Expressions of Muslim faith held hostage by criminals, Maria Bhatti
 
-## 3. Parramatta, Sydney
+## Parramatta, Sydney
 
 -   13 October 2015, Sajjeling, The Terror of Responsibility: Are Terrorists Criminals? Mohamad Tabbaa
 
-## 4. Bourke Street, Melbourne
+## Bourke Street, Melbourne
 
 -   November 2018, Motabbaalism, Trajectories of Terror: Tracing Muslim Responses, Mohamad Tabbaa
 -   12 November 2018, Sydney Morning Herald, More laws won't stop terrorism but effective prevention is complex, Anne Aly
 -   15 November 2018, The Age, Bourke St: I am feeling nothing less than rage, alienation and despair, Randa Abdel -Fattah
 -   19 November 2018, ABC Religion and Ethics Online, After the Bourke Street attack, once again Muslims suffer from politicians' double standards, Nancy Umm Rashid
 
-## 5. Islamophobia and Race
+## Islamophobia and Race
 
 -   17 December 2008, Online Opinion, Not another wave of Islamophobia please!, Alice Aslan
 -   2005 -2008, Channel 31, Salam Cafe
@@ -198,7 +198,7 @@ The bibliography is divided into the following categories and there are hyperlin
 -   2019, ABC Radio National, 'Sense of Place: Michael Mohammed Ahmad, Western Sydney',
 -   2019, ABC Radio National 'The Lebs', Michael Mohammed Ahmed
 
-## 6. Counter -terrorism and countering violent extremism
+## Counter -terrorism and countering violent extremism
 
 -   2011, Anne Aly, Terrorism and Global Security: Historical and Contemporary Perspectives, Palgrave Macmillan
 -   26 August 2014, Al Jazeera, Australia launches anti -terrorism offensive, Miran Hosny
@@ -213,7 +213,7 @@ The bibliography is divided into the following categories and there are hyperlin
 -   9 -15 June 2018, The Saturday Paper, 'Dutton's secret propaganda unit', Shakira Hussein
 -   9 November 2018, The Conversation, How a Sri Lankan student's arrest on terror charges exposes a system built to suspect minorities, Randa Abdel -Fattah
 
-## 7. Global war on terror
+## Global war on terror
 
 -   28 October 2010, ABC Opinion, Misplaced debate on Afghanistan: too little, too late, Uthman Badar
 -   28 June 2011, ABC Opinion, Whither the Arab Spring? Uthman Badar
@@ -226,7 +226,7 @@ The bibliography is divided into the following categories and there are hyperlin
 -   12 October  2017, The Age, Focus on terror threats a convenient distraction from climate change, Waleed Aly
 -   6 October 2018, Sajjeling, Wither ISIS: What Do Islamophobes Really Want?, Mohamad Tabbaa
 
-## 8. Gendered Islamophobia/Sexuality
+## Gendered Islamophobia/Sexuality
 
 -   2005, 'Living In A Material World', The Lure of Fundamentalism. Griffith Review Edition, Randa Abdel -Fattah
 -   2008, Divided Nation. Griffith Review, Edition 15, 'Of Middle Eastern Appearance', Randa Abdel -Fattah
@@ -275,7 +275,7 @@ The bibliography is divided into the following categories and there are hyperlin
 -   2019, ABC Radio National, Podcast: 'Dr Michael Mohammed Ahmad', Conversations with Writers Michael Mohammed Ahmed
 -    21 February 2019, ABC Late Night Live, Arab Australian Feminism, Sara Saleh and Randa Abdel -Fattah
 
-## 9. Free speech debates
+## Free speech debates
 
 -   17 September 2012, The Conversation Sydney riots: Muslim responses to provocation must be more considered, Samina Yasmeen
 -   17 September 2012, 'I heard them mutter "bloody Muslims"...', Randa Abdel -Fattah
@@ -295,13 +295,13 @@ The bibliography is divided into the following categories and there are hyperlin
 -   28 August 2018, The Guardian, I wanted to make jokes about my destroyed career, but all I felt was grief, Yassmin Abdel -Magied
 -   19 February 2019, SBS, 'Our long history of cartoons demonising foreigners', Safdar Ahmed
 
-## 10. Research Reports:
+## Research Reports:
 
 -   23 November 2013, Hizb ut -Tahrir Australia, Government intervention in the Muslim community, report.
 -   2017, Islamophobia Register Australia/ISRA, Islamophobia in Australia Report
 -   (2015) Kevin Dunn, Rosalie Atie, Virginia Mapedzahama, Mehmet Ozalp, Adem F. Aydogan, The resilience and ordinariness of Australian Muslims: Attitudes and experiences of Muslims Report
 
-## 11. Academic Publications, Non -Fiction, Memoirs and Novels:
+## Academic Publications, Non -Fiction, Memoirs and Novels:
 
 Academic
 (** Please note this is a small sample. Please submit missing citations.)
@@ -394,7 +394,7 @@ Academic
 -   Legally Brown, SBS One: [https://www.youtube.com/channel/UCgyJfe317pjTAajKiEirc1A](https://www.youtube.com/channel/UCgyJfe317pjTAajKiEirc1A)
 -   Nazeem Hussein, Netflix Special Comedians of the World: [http://nazeemhussain.com/](http://nazeemhussain.com/)
 
-## 13. Spoken Word Poetry
+## Spoken Word Poetry
 
 -   Manal Younus - [https://www.manalyounuspoetry.com/videos.html](https://www.manalyounuspoetry.com/videos.html)
 -   Amal Ibrahim - [https://www.youtube.com/watch?v=h88aOLlG4dI](https://www.youtube.com/watch?v=h88aOLlG4dI)
