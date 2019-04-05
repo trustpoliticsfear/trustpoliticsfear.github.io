@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Credits
+title: "Credits"
 sortorder: 40
 ---
 

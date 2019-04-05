@@ -1,9 +1,9 @@
-- --
+---
 layout: page
-title: Australian Muslim Voices on Islamophobia, race and the 'War on Terror'
-shortTitle: Bibliography
+title: "Australian Muslim Voices on Islamophobia, race and the 'War on Terror'"
+shortTitle: "Bibliography"
 sortorder: 30
-- --
+---
 
 
 

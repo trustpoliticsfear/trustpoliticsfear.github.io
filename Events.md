@@ -4,7 +4,7 @@ title: "Recording of panel at Macquarie University 3 April 2019: 'Can the Subalt
 author: Randa Abdel-Fattah
 editor: Randa Abdel-Fattah
 source: audio recording
-shortTitle: Events
+shortTitle: "Events"
 publication-date: 2019
 published: true
 sortorder: 20
