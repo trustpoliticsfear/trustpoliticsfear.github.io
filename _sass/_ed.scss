@@ -37,8 +37,8 @@ body {
 
 html {
   font-family: $main-font;
-  font-size: 11px;
-  line-height: 1.5;
+  font-size: $regular-font-size;
+  line-height: 1.5rem;
 }
 
 @media (min-width: 38em) {
@@ -94,15 +94,15 @@ body {
   margin-right: auto;
 }
 
-@media (min-width: 38em) {
+@media (min-width: 50em) {
   .container {
-    max-width: 32rem;
+    max-width: 48rem;
   }
 }
 
-@media (min-width: 56em) {
+@media (min-width: 60em) {
   .container {
-    max-width: 38rem;
+    max-width: 58rem;
   }
 }
 
