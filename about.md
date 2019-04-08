@@ -2,6 +2,9 @@
 layout: page
 title: "About"
 sortorder: 10
+description: >
+    By Dr Randa Abdel-Fattah
+    The first generation of Australians born around 9/11 2001 are coming of age. Combining interviews with innovative storytelling workshops in Sydney schools and universities, this project aims to provide the first comparison of the generational and racialized impact of the global 'War on Terror' on Muslim and non-Muslim youth born into a post 9/11 world by focusing on their trust relations, political consciousness and fears.
 ---
 
 The first generation of Australians born around 9/11 2001 are coming of age. Combining interviews with innovative storytelling workshops in Sydney schools and universities, this project aims to provide the first comparison of the generational and racialized impact of the global 'War on Terror' on Muslim and non-Muslim youth born into a post 9/11 world by focusing on their trust relations, political consciousness and fears.

@@ -2,6 +2,7 @@
 layout: page
 title: "Credits"
 sortorder: 40
+description: "Credits for the Site"
 ---
 
 

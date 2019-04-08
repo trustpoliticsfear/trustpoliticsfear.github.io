@@ -19,9 +19,11 @@
 
     <!-- Open Graph metadata -->
     <meta property="og:title" content="{{page.title}}" />
-    <meta property="og:description" content="{{page.description | truncatewords '20'}}">
+    <meta property="og:description" content="{% if page.description %}{{page.description}}{% else %}{{page.excerpt}}{%endif%}">
     <meta property="og:author" content="Dr Randa Abdel-Fattah">
     <meta property="fb:admins" content="randaabdelfattah" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:site" content="@RandaAFattah" />
     <meta property="twitter:creator" content="@RandaAFattah" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
