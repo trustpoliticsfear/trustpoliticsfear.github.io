@@ -32,7 +32,7 @@ The bibliography is divided into the following categories:
 ## Note
 This list is clearly not exhaustive and misses many voices for which I apologise. Nobody has been deliberately excluded from this resource. I compiled the resource via google searches and so I am sure there are people who should be included who I have missed. Please email me on randa.abdel-fattah@mq.edu.au to update the list.  
 
-To access the google doc with hyperlinks to all the citations visit: https://docs.google.com/document/d/1gljMckWjZ_ovGb_qRwEjC33sSTIPMUgJBvHDy-Z3Cuw/edit?usp=sharing
+To access the google doc with hyperlinks to all the citations visit: [https://docs.google.com/document/d/1gljMckWjZ_ovGb_qRwEjC33sSTIPMUgJBvHDy-Z3Cuw/edit?usp=sharing](Google Docs)
 
 ## Christchurch, New Zealand
 
