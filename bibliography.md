@@ -186,7 +186,7 @@ Bourke Street, Melbourne
 Islamophobia and Race
 ===================================
 
--   17 December 2008, Online Opinion, **[Not another wave of
+-   17 December 2008, Online Opinion, [**Not another wave of
     Islamophobia
     please!](http://www.onlineopinion.com.au/view.asp?article=8300),**
     Alice Aslan
@@ -225,9 +225,9 @@ Islamophobia and Race
 -   2 November 2010, SBS Insight, [**Fear of
     Islam**](https://www.sbs.com.au/news/insight/tvepisode/fear-of-islam)
 
--   23 May 2011, Online opinion, **[Osama today, Islam tomorrow: a new
+-   23 May 2011, Online opinion, [**Osama today, Islam tomorrow: a new
     chapter of
-    Islamophobia?,](http://www.onlineopinion.com.au/view.asp?article=12071)**
+    Islamophobia?,**](http://www.onlineopinion.com.au/view.asp?article=12071)
     Hussein Mohamud and Sahar Ghumkhor
 
 -   15 August 2011, Daily Telegraph, [**Hoodlums who happen to be
@@ -304,15 +304,14 @@ Islamophobia and Race
     us](http://www.couriermail.com.au/news/opinion/opinion-we-must-not-allow-radicals-and-extremists-to-divide-us/story-fnihsr9v-1227158610579)',**
     Mohamad Abdalla
 
--   1 February 2015, Al Jazeera English, **[\'Australia\'s
+-   1 February 2015, Al Jazeera English, [**\'Australia\'s
     multicultural
     project\'](https://www.aljazeera.com/indepth/opinion/2015/01/australia-multicultural-project-201512183322327295.html),**
     Randa Abdel-Fattah
 
--   24 February 2015, ABC Religion and Ethics Online, **[Including
+-   24 February 2015, ABC Religion and Ethics Online, [**Including
     Muslims Out: Semantics and Strategy in Abbott\'s National Security
-    Address,** 
-    ](https://www.abc.net.au/religion/including-muslims-out-semantics-and-strategy-in-abbotts-national/10098570)Randa
+    Address,**](https://www.abc.net.au/religion/including-muslims-out-semantics-and-strategy-in-abbotts-national/10098570)Randa
     Abdel-Fattah
 
 -   2 March 2015, Al Jazeera English, [\'**Tony Abbott\'s anti-Muslim
@@ -421,9 +420,9 @@ Islamophobia and Race
     Islamophobia**](https://www.abc.net.au/religion/taking-over-the-emotional-dimension-of-islamophobia/10097544),
     Randa Abdel-Fattah
 
--   7 December 2015, Kill Your Darlings, [** Parallel Lanes: On fear,
+-   7 December 2015, Kill Your Darlings, [**Parallel Lanes: On fear,
     citizenship and
-    accountability**](https://www.killyourdarlings.com.au/2015/12/parallel-lanes/)**,**
+    accountability****](https://www.killyourdarlings.com.au/2015/12/parallel-lanes/),**
     Omar J. Sakr
 
 <!-- -->
@@ -486,7 +485,7 @@ Islamophobia and Race
     conservative**](https://www.sbs.com.au/guide/article/2016/07/21/some-advice-pauline-hanson-muslim-conservative-comment?fbclid=IwAR064NykJY-lz1Q5CzIRGpYKoa7OIzMNtVE_SNDq2bus7sP7_eor5YxTzR4),
     Irfan Yusuf
 
--   3 August 2016, The Vocal, [** The unfair scrutiny imposed on Muslim
+-   3 August 2016, The Vocal, [**The unfair scrutiny imposed on Muslim
     adolescence**](http://www.dailylife.com.au/news-and-views/dl-opinion/the-unfair-scrutiny-imposed-on-muslim-adolescence-20160802-gqjco4.html),
     Ahmed Yussuf
 
@@ -502,7 +501,7 @@ Islamophobia and Race
     Applicants are
     equal**](http://sajjeling.com/2016/11/29/in-australia-not-all-visa-applicants-are-equal/)
 
--   30 November 2016, The Guardian, **[Peter Dutton did not appear out
+-   30 November 2016, The Guardian, [**Peter Dutton did not appear out
     of thin air. He represents consistent Australian
     policy](https://www.theguardian.com/commentisfree/2016/nov/30/peter-dutton-did-not-appear-out-of-thin-air-he-represents-consistent-australian-poli),**
     [Omar
@@ -538,9 +537,8 @@ Islamophobia and Race
 -   2017, SBS TV, [**The Mosque Next
     Door**](https://www.sbs.com.au/programs/mosquenextdoor)
 
--   28 February 2017, Overland, **[Insecurity archipelago: liberal
-    Islam and its limits,** 
-    ](https://overland.org.au/2017/02/insecurity-archipelago-liberal-islam-and-its-limits/)Faisal
+-   28 February 2017, Overland, [**Insecurity archipelago: liberal
+    Islam and its limits,**](https://overland.org.au/2017/02/insecurity-archipelago-liberal-islam-and-its-limits/)Faisal
     Al-Asaad
 
 -   23 March 2017, Crikey, [**Sorry, Malcolm, but multicultural
@@ -599,8 +597,8 @@ Islamophobia and Race
     diversity, coming of age, in Australian
     literature**](https://www.abc.net.au/radionational/programs/booksandarts/randa-abdel-fattah/9058760)
 
--   15 June 2017, The Guardian, **[Terrorism has changed. Blaming Islam
-    is blinding us to the new reality,** 
+-   15 June 2017, The Guardian, [**Terrorism has changed. Blaming Islam
+    is blinding us to the new reality,**
     ](https://www.theguardian.com/commentisfree/2017/jun/15/terrorism-has-changed-blaming-islam-is-blinding-us-to-the-new-reality)Joumanah
     El Matrah
 
@@ -618,7 +616,7 @@ Islamophobia and Race
     terrorism**](https://www.theage.com.au/opinion/call-the-finsbury-park-attack-what-it-is-rightwing-terrorism-20170622-gww4on.html),
     Waleed Aly
 
--   10 July 2017, ABC Online, [** Islamophobia: My children hear the
+-   10 July 2017, ABC Online, [**Islamophobia: My children hear the
     ugly reality of racism in the street, it\'s not up to them to
     toughen
     up**](https://www.abc.net.au/news/2017-07-10/children-see-the-ugly-reality-of-racism/8694278),
@@ -629,8 +627,8 @@ Islamophobia and Race
     Australia,**](https://theconversation.com/islamophobia-is-still-raising-its-ugly-head-in-australia-80682)
     Mehmet Ozalp
 
--   28 August 2017, Opinion Online, **[Binging on
-    racism,** 
+-   28 August 2017, Opinion Online, [**Binging on
+    racism,**
     ](http://www.onlineopinion.com.au/view.asp?article=19247)Alice
     Aslan
 
@@ -638,8 +636,8 @@ Islamophobia and Race
     Dead**,](https://www.killyourdarlings.com.au/article/the-uncomplicated-dead/)
     Omar J. Sakr
 
--   6 Nov 2017, SBS Life, **[What really goes on inside a
-    mosque?](https://www.sbs.com.au/topics/life/culture/article/2017/11/05/what-really-goes-inside-mosque?fbclid=IwAR2vTLy9AB2MNg_ysgYoOLDjHYJ3_VYWeYJ5RAQrbDhK5DQ0fTX9nDpENqQ)**
+-   6 Nov 2017, SBS Life, [**What really goes on inside a
+    mosque?**](https://www.sbs.com.au/topics/life/culture/article/2017/11/05/what-really-goes-inside-mosque?fbclid=IwAR2vTLy9AB2MNg_ysgYoOLDjHYJ3_VYWeYJ5RAQrbDhK5DQ0fTX9nDpENqQ)
     Fahad Ali
 
 -   10 November 2017, Crikey, [**Why I'm done fact-checking
@@ -662,12 +660,12 @@ Islamophobia and Race
     race**,](https://www.theguardian.com/commentisfree/2018/jan/07/the-feared-other-peter-duttons-and-australias-pathology-around-race)
     Joumanah El Matrah
 
--   31 January 2018, Crikey, **[How an Islamic fashion exhibition
+-   31 January 2018, Crikey, [**How an Islamic fashion exhibition
     exposed the true Aussie
-    spirit,](https://www.crikey.com.au/2018/01/31/when-the-old-and-the-new-are-both-true-blue-thats-australian/)**
+    spirit,**](https://www.crikey.com.au/2018/01/31/when-the-old-and-the-new-are-both-true-blue-thats-australian/)
     Shakira Hussein
 
--   17-23 February 2018, The Saturday Paper, [** Representation and
+-   17-23 February 2018, The Saturday Paper, [**Representation and
     diversity**](https://www.thesaturdaypaper.com.au/opinion/topic/2018/02/17/representation-and-diversity/15187860005825),
     Omar J. Sakr
 
@@ -686,7 +684,7 @@ Islamophobia and Race
 
 -   Tasnim Mahmoud
 
--   May 2018, Wheeler Centre, [** Not racist but...the media and
+-   May 2018, Wheeler Centre, [**Not racist but...the media and
     racism**](https://www.wheelercentre.com/broadcasts/not-racist-but-the-media-and-racism),
     Karen Farquharson, Usha Rodrigues, Anthony Kelly and Oishee Alam
 
@@ -699,7 +697,7 @@ Islamophobia and Race
     Drum**,](https://www.abc.net.au/news/2016-01-25/the-drum-monday-january-25/7113980)
     Sara Saleh
 
--   16 July 2018, ABC Big Ideas, [** Citizenship, parliament, and the
+-   16 July 2018, ABC Big Ideas, [**Citizenship, parliament, and the
     constitution**](https://www.abc.net.au/radionational/programs/bigideas/citizenship,-parliament,-and-the-the-constitution/9971736),
     Randa Abdel-Fattah
 
@@ -718,7 +716,7 @@ Islamophobia and Race
     be**,](https://www.theguardian.com/commentisfree/2018/aug/16/as-small-men-reduce-us-all-to-a-small-nation-we-must-decide-who-we-want-to-be)
     Joumanah El Matrah
 
--   18 August 2018, SBS The Feed, **[Opinion: Anning\'s speech proves
+-   18 August 2018, SBS The Feed, [**Opinion: Anning\'s speech proves
     Parliament needs a code of
     conduct](https://www.sbs.com.au/news/the-feed/opinion-anning-s-speech-proves-parliament-needs-a-code-of-conduct?fbclid=IwAR1SdwyY9Ml_PE502Kke2oc3R4w2k-MKqNdxSmWyuu0BPQsh6oOcamTasFg),**
     Ramia Abdo Sultan
@@ -727,7 +725,7 @@ Islamophobia and Race
     politics**](https://www.thesaturdaypaper.com.au/opinion/topic/2018/08/18/fraser-anning-and-racist-politics/15345144006725?fbclid=IwAR1kPLUNpwjDd6BA71t_r_eh5JcV_geVDg9fQuxECQmWdIo7ZXVpK6-XKZo),
     Ruby Hamad
 
--   26 August 2018, ABC Religion and Ethics Online, **[Islam and the
+-   26 August 2018, ABC Religion and Ethics Online, [**Islam and the
     West: How Muslims are constructing a new
     identity](https://www.abc.net.au/religion/islam-and-the-west-how-muslims-are-constructing-a-new-identity/10214294),**
     Adis Duderija
@@ -745,7 +743,7 @@ Islamophobia and Race
     flag**,](https://www.thesaturdaypaper.com.au/opinion/topic/2018/10/20/razing-the-white-flag/15399540007025)
     Ruby Hamad.
 
--   22 October 2018, Crikey, **[Red meat to the base: why white
+-   22 October 2018, Crikey, [**Red meat to the base: why white
     fragility can't stand being
     roasted](https://www.crikey.com.au/2018/10/22/red-meat-to-the-base-why-white-fragility-cant-stand-being-roasted/),**
     Shakira Hussein
@@ -756,7 +754,7 @@ Islamophobia and Race
     Anne Aly
 
 -   10 December 201, Djed Press,
-    **[Storm](https://djedpress.com/2018/12/10/storm-2/),**
+    [**Storm](https://djedpress.com/2018/12/10/storm-2/),**
     Rafeif Ismail.
 
 -   13 December 2018, Sydney Morning Herald, [**So we\'re a
@@ -769,7 +767,7 @@ Islamophobia and Race
     us**,](https://www.theguardian.com/commentisfree/2018/dec/31/the-governments-strategy-of-vilifying-muslims-can-be-used-against-all-of-us)
     Joumanah El Matrah
 
--   8 January 2019, Independent Australia, **[Dutton, Morrison and
+-   8 January 2019, Independent Australia, [**Dutton, Morrison and
     Prakash: The politicising of Muslim
     extremism](https://independentaustralia.net/politics/politics-display/dutton-morrison-and-prakash-the-politicising-of-muslim-extremism,12255),**
     Bilal Cleland
@@ -782,7 +780,7 @@ Islamophobia and Race
 -   21 June 2019, ABC TV, [**You See
     Monsters**,](https://iview.abc.net.au/show/you-see-monsters?fbclid=IwAR2oXN-2IMkbHf4b9hLv2hw3TlF3PC053pS2ssZvN-8bggY9OvAazDDin90)
 
--   30 January 2019, Independent Australia, [** January 26 continues to
+-   30 January 2019, Independent Australia, [**January 26 continues to
     divide the
     nation**](https://independentaustralia.net/australia/australia-display/january-26-continues-to-divide-the-nation,12327),
     Bilal Cleland
@@ -792,13 +790,13 @@ Islamophobia and Race
     game,**](https://www.crikey.com.au/2019/03/19/media-writing-skin-in-game/)
     Shakira Hussein
 
--   2019, ABC Radio National, '**[Sense of Place: Michael Mohammed
+-   2019, ABC Radio National, '[**Sense of Place: Michael Mohammed
     Ahmad, Western
     Sydney'](https://www.abc.net.au/radionational/programs/blueprintforliving/features/sense-of-place/sense-of-place:-michael-mohammed-ahmad,-western-sydney/10743816),
     **
 
 -   2019, ABC Radio National **'[The
-    Lebs',](https://www.abc.net.au/radionational/programs/archived/talkfest/talkfest-29-september-the-lebs/10204684)**
+    Lebs'**](https://www.abc.net.au/radionational/programs/archived/talkfest/talkfest-29-september-the-lebs/10204684), 
     Michael Mohammed Ahmed
 
 Counter-terrorism and countering violent extremism
@@ -823,7 +821,7 @@ Counter-terrorism and countering violent extremism
     Abdalla, Tarik Houchar, Rebekah Chaudhary, Walid Sabone, Bilal Rauf,
     Silma Ihram, May Fahmi, Yasin Naqi
 
--   8 July 2015, Sydney Morning Herald, **[Scapegoating minorities may
+-   8 July 2015, Sydney Morning Herald, [**Scapegoating minorities may
     reap a bitter
     harvest](https://www.smh.com.au/opinion/scapegoating-minorities-may-reap-a-bitter-harvest-20150708-gi7l2u.html),**
     Mariam Veiszadeh and Lydia Shelly
@@ -835,14 +833,14 @@ Counter-terrorism and countering violent extremism
     Time"**](https://www.abc.net.au/religion/islamophobia-that-keeps-on-ticking-ahmed-mohamed-and-the-wests-c/10097828),
     Yassir Morsi
 
--   9 October 2015, The Guardian, **['The stigmatisation of Muslims as
+-   9 October 2015, The Guardian, [**'The stigmatisation of Muslims as
     \'could-be terrorists\' has produced a toxic social
     order'](https://www.theguardian.com/commentisfree/2015/oct/09/the-stigmatisation-of-muslims-as-could-be-terrorists-has-produced-a-toxic-social-order),**
     Randa Abdel-Fattah
 
 <!-- -->
 
--   12 October 2015, ABC Q&A, [** Social Cohesion, Offshore Detention &
+-   12 October 2015, ABC Q&A, [**Social Cohesion, Offshore Detention &
     Factions**](https://www.youtube.com/watch?v=8mT6Tq6jJQA)
     Wesam Charkawi
 
@@ -893,7 +891,7 @@ Global war on terror
     violence**](http://www.onlineopinion.com.au/view.asp?article=15076),
     Uthman Badar
 
--   16 November 2015, The Project TV, **[Waleed Aly on the Paris
+-   16 November 2015, The Project TV, [**Waleed Aly on the Paris
     Attacks](https://www.dailymail.co.uk/video/news/video-1229370/Waleed-Aly-plea-unity-following-Paris-terror-attacks.html)
     **
 
@@ -903,7 +901,7 @@ Global war on terror
 
 -   12 December 2015, The National, **"[Stop making me apologise for
     the acts of
-    extremists"](https://www.thenational.ae/opinion/stop-making-me-apologise-for-the-acts-of-extremists-1.104437)**,
+    extremists"**](https://www.thenational.ae/opinion/stop-making-me-apologise-for-the-acts-of-extremists-1.104437),
     Yassir Morsi
 
 <!-- -->
@@ -923,14 +921,14 @@ Global war on terror
 Gendered Islamophobia/Sexuality
 ===============================
 
--   2005, Griffith Review Edition, **['Living In A Material World', The
-    Lure of Fundamentalism.** 
+-   2005, Griffith Review Edition, [**'Living In A Material World', The
+    Lure of Fundamentalism.**
     ](https://griffithreview.com/articles/living-in-a-material-world/)Randa
     Abdel-Fattah
 
 -   2008, Divided Nation. Griffith Review, Edition 15, **'[Of Middle
     Eastern
-    Appearance'](https://griffithreview.com/articles/of-middle-eastern-appearance/)**[,](https://griffithreview.com/articles/of-middle-eastern-appearance/)
+    Appearance'](https://griffithreview.com/articles/of-middle-eastern-appearance/)[**,](https://griffithreview.com/articles/of-middle-eastern-appearance/)
     Randa Abdel-Fattah
 
 -   16 January 2009, Crikey, [**Another storm in a
@@ -954,7 +952,7 @@ Gendered Islamophobia/Sexuality
     Gras**,](http://www.onlineopinion.com.au/view.asp?article=11745)
     Alice Aslan
 
--   5 April 2013, Right Now, **[The challenges of being a Muslim woman
+-   5 April 2013, Right Now, [**The challenges of being a Muslim woman
     in a multicultural
     society](http://rightnow.org.au/opinion-3/the-challenges-of-being-a-muslim-woman-in-a-multicultural-society/),**
     Ghena Krayem
@@ -963,17 +961,17 @@ Gendered Islamophobia/Sexuality
     again**,](https://overland.org.au/2013/05/saving-the-muslim-woman-yet-again/)
     Sahar Ghumkhor and Yassir Morsi
 
--   14 May 2013, Green Left Weekly, **[Islamophobia hides under cloak
+-   14 May 2013, Green Left Weekly, [**Islamophobia hides under cloak
     of gender
     equality](https://www.greenleft.org.au/glw-authors/mohamad-tabbaa),**
     Mohamad Tabbaa
 
--   26 June 2013, TED, **[Don\'t Believe the Hype, Exceed It - The War
+-   26 June 2013, TED, [**Don\'t Believe the Hype, Exceed It - The War
     Against
-    Stereotypes:](https://www.youtube.com/watch?v=DTFkOE6zQ1g)**
+    Stereotypes:**](https://www.youtube.com/watch?v=DTFkOE6zQ1g)
     Tasneem Chopra
 
--   2 October 2014, **[Want an Insight Into Life Under the Muslim Veil?
+-   2 October 2014, [**Want an Insight Into Life Under the Muslim Veil?
     How About
     Asking?](https://newmatilda.com/2014/10/02/want-insight-life-under-muslim-veil-how-about-asking/),**
     Somayra Ismailjee
@@ -985,7 +983,7 @@ Gendered Islamophobia/Sexuality
 
 <!-- -->
 
--   19 October 2014, ABC News, [** 'Wearing the niqab, \"it\'s done
+-   19 October 2014, ABC News, [**'Wearing the niqab, \"it\'s done
     with full freedom of
     choice\"**](https://www.youtube.com/watch?v=z30aKkOjnmA&feature=share&fbclid=IwAR1pIjSiAYYqUmLpp1qEH-Kg7OY4IwmmjPdNDS7QJcHOkqqsTeJNTRIFW6w),
     Anisa Khan
@@ -1004,7 +1002,7 @@ Gendered Islamophobia/Sexuality
 
 -   23 January 2016, New Matilda, **'[The Cologne Attacks And The Big
     White Elephant In The
-    Room\'](https://newmatilda.com/2016/01/23/the-cologne-attacks-and-the-white-elephant-in-the-room/)**[,](https://newmatilda.com/2016/01/23/the-cologne-attacks-and-the-white-elephant-in-the-room/)
+    Room\'](https://newmatilda.com/2016/01/23/the-cologne-attacks-and-the-white-elephant-in-the-room/)[**,](https://newmatilda.com/2016/01/23/the-cologne-attacks-and-the-white-elephant-in-the-room/)
     Randa Abdel-Fattah
 
 -   10 March 2016, Inside Story, [**Victims and suspects: the catch-22
@@ -1017,10 +1015,10 @@ Gendered Islamophobia/Sexuality
     9/11**,](http://www.onlineopinion.com.au/view.asp?article=18241)
     Alice Aslan
 
--   30 May 2016, ABC Compass, **H[ana Assafiri on speed dating a
-    muslim](https://www.abc.net.au/religion/watch/compass/speed-date-a-muslim/10142432)**
+-   30 May 2016, ABC Compass, [**Hana Assafiri on speed dating a
+    muslim**](https://www.abc.net.au/religion/watch/compass/speed-date-a-muslim/10142432)
 
--   6 April 2016, ABC Radio, [** From Victims to Suspects: Shakira
+-   6 April 2016, ABC Radio, [**From Victims to Suspects: Shakira
     Hussein on Muslim
     women**](https://www.abc.net.au/radionational/programs/religionandethicsreport/from-victims-to-suspects:-shakira-hussein-on-muslim-women/7281400)
 
@@ -1039,7 +1037,7 @@ Gendered Islamophobia/Sexuality
 
 <!-- -->
 
--   24 November 2016, ABC Radio National, '**[In my shoes part 2:
+-   24 November 2016, ABC Radio National, '[**In my shoes part 2:
     Eugenia, Ruby and
     Oishee](https://www.abc.net.au/radionational/programs/earshot/in-my-shoes-pt-2/8024000)',**
     Sarah Malik, Eugenia Flynn, Ruby Hamad, Oishee Alam
@@ -1048,9 +1046,9 @@ Gendered Islamophobia/Sexuality
     McCue in the Australian Muslim women oral history
     project**](https://catalogue.nla.gov.au/Record/7252802)
 
--   4 February 2017, SBS, **[Why there is no such thing as a harmless
+-   4 February 2017, SBS, [**Why there is no such thing as a harmless
     stereotype about black
-    men,](https://www.sbs.com.au/topics/life/culture/article/2017/02/08/comment-why-there-no-such-thing-harmless-stereotype-about-black-men)**
+    men**](https://www.sbs.com.au/topics/life/culture/article/2017/02/08/comment-why-there-no-such-thing-harmless-stereotype-about-black-men),
     Ahmed Yussuf
 
 -   21 February 2017, The Guardian, [**Yassmin Abdel-Magied said
@@ -1104,7 +1102,7 @@ Gendered Islamophobia/Sexuality
     saved**,](https://www.theguardian.com/commentisfree/2018/feb/23/as-muslim-women-we-dont-need-you-to-speak-for-us-and-we-dont-need-to-be-saved)
     Ghena Krayem
 
--   Autumn 2018, Meanjin, [** Any Percentage of a Heart Is Still a
+-   Autumn 2018, Meanjin, [**Any Percentage of a Heart Is Still a
     Heart**](https://meanjin.com.au/essays/national-accounts-any-percentage-of-a-heart-is-still-a-heart/),
     Omar Sakr
 
@@ -1115,7 +1113,7 @@ Gendered Islamophobia/Sexuality
 <!-- -->
 
 -   23 April 2018, ACRAWSA Blog, [**Review: Boko Haram Huntress
-    (Al-Jazeera)**,](https://acrawsa.org.au/2018/04/23/review-boko-haram-huntress-al-jazeera/)
+    (Al-Jazeera)**](https://acrawsa.org.au/2018/04/23/review-boko-haram-huntress-al-jazeera/),
     Sumaiya Muyeen
 
 -   13 June 2018, Overland, [**Muslim women and the neoliberal logic of
@@ -1147,7 +1145,7 @@ Gendered Islamophobia/Sexuality
 -   2019, ABC Radio National, Podcast: 'Dr Michael Mohammed Ahmad', [**
     Conversations with
     Writers**](http://www.conversationswithwriters.com/uncategorized/dr-michael-mohammed-ahmad/)
-    **Michael Mohammed Ahmed** [
+    **Michael Mohammed Ahmed**[
     ](https://www.abc.net.au/radionational/programs/archived/talkfest/talkfest-29-september-the-lebs/10204684)
 
 <!-- -->
@@ -1159,7 +1157,7 @@ Gendered Islamophobia/Sexuality
 Free speech debates
 ===================
 
--   17 September 2012, The Conversation [** Sydney riots: Muslim
+-   17 September 2012, The Conversation [**Sydney riots: Muslim
     responses to provocation must be more
     considered**](http://theconversation.com/sydney-riots-muslim-responses-to-provocation-must-be-more-considered-9607),
     Samina Yasmeen
@@ -1190,7 +1188,7 @@ Free speech debates
     Apologies**](https://mediadiversified.org/2015/02/12/western-apologies/),
     Somayra Ismailjee
 
--   23 February 2015, The Guardian, **[Hizb ut-Tahrir: is it now an
+-   23 February 2015, The Guardian, [**Hizb ut-Tahrir: is it now an
     offence to oppose government policy? If so, let it be said
     plainly](https://www.theguardian.com/commentisfree/2015/feb/23/hizb-ut-tahrir-is-it-now-an-offence-to-oppose-government-policy-if-so-let-it-be-said-plainly),**
     Uthman Badar
@@ -1207,8 +1205,8 @@ Free speech debates
     crucible'**](https://www.thesaturdaypaper.com.au/opinion/topic/2017/02/25/yassmin-abdel-magied-and-the-australian-crucible/14879412004273),
     Susan Carland
 
--   28 March 2017, IQ2 Debate, [** Has political correctness
-    backfired?** 
+-   28 March 2017, IQ2 Debate, [**Has political correctness
+    backfired?**
     ](https://ethics.org.au/experience/political-correctness-has-failed-itself/?fbclid=IwAR3jxsignP5syKrU2otvoyffDo_NECbf5WYpTOteDxGd97ynLK9ksxuTu_M),
     Tasneem Chopra
 
@@ -1239,7 +1237,7 @@ Free speech debates
     Yassmin Abdel-Magied
 
 -   19 February 2019, SBS, **'[Our long history of cartoons demonising
-    foreigners'](https://www.sbs.com.au/topics/life/culture/article/2019/02/14/our-long-history-cartoons-demonising-foreigners?fbclid=IwAR3Jm60CtSgj91PpCQyLKydJPW31UBzeAIlwUge87Wvs7UGrkxG_s1YInl8)**,
+    foreigners'**](https://www.sbs.com.au/topics/life/culture/article/2019/02/14/our-long-history-cartoons-demonising-foreigners?fbclid=IwAR3Jm60CtSgj91PpCQyLKydJPW31UBzeAIlwUge87Wvs7UGrkxG_s1YInl8),
     Safdar Ahmed
 
 Research Reports:
@@ -1272,7 +1270,7 @@ citations.*)
     Australia**](https://catalogue.nla.gov.au/Record/2660417)
     Abdullah Saeed and Shahram Akbarzadeh,
 
--   \(2002) Bilal Cleland, [** The Muslims in Australia: A Brief
+-   \(2002) Bilal Cleland, [**The Muslims in Australia: A Brief
     History**](https://web.archive.org/web/20021013221729/http://www.icv.org.au/history.shtml),
     Islamic Council of Victoria
 
@@ -1329,7 +1327,7 @@ Melbourne University Press, Carlton.
 <!-- -->
 
 -   \(2012) Mehmet Ozlap, **Islam between tradition and modernity: An
-    Australian perspective,** Barton Books.
+    Australian perspective,**Barton Books.
 
 -   \(2012) Fethi Mansouri (editor), Vince Marotta (editor) **Muslims in the
     West and the Challenges of Belonging**, Melbourne University Press
@@ -1346,7 +1344,7 @@ Press, Carlton.
 -   \(2015) Nora Amath, **The Phenomenology of Community Activism: Muslim
     Civil Society Organisations in Australia**, Melbourne University Press
 
--   (2015), Iner, D & Yucel, S. (Eds.) **[Muslim Identity Formation in
+-   (2015), Iner, D & Yucel, S. (Eds.) [**Muslim Identity Formation in
     Religiously Diverse
     Societies](https://www.cambridgescholars.com/muslim-identity-formation-in-religiously-diverse-societies),**
     Cambridge Scholars Publishing.
@@ -1376,7 +1374,7 @@ Press, Carlton.
     Islam**,](https://www.mup.com.au/books/facing-race-hardback)
     Melbourne University Press
 
--   \(2018) Mehal Krayem **[Heroes, Villains and the Muslim
+-   \(2018) Mehal Krayem [**Heroes, Villains and the Muslim
     Exception](https://www.mup.com.au/authors/mehal-krayem),**
     Melbourne university Press
 
@@ -1399,7 +1397,7 @@ Non-Fiction and Memoir
     Australia**](https://www.allenandunwin.com/browse/books/childrens/young-adult-non-fiction/The-Glory-Garage-Nadia-Jamal-and-Taghred-Chandab-9781741146493),
     Allen & Unwin
 
--   \(2007) Irfan Yusuf, **[Once Were
+-   \(2007) Irfan Yusuf, [**Once Were
     Radicals](https://www.allenandunwin.com/browse/books/general-books/biography-autobiography/Once-Were-Radicals-Irfan-Yusuf-9781741758269),**
     Allen & Unwin
 
@@ -1407,7 +1405,7 @@ Non-Fiction and Memoir
     Us**,](https://www.panmacmillan.com.au/9780330423809/) Pan
     Macmillan
 
--   \(2008) Hanifa Deen, **[The Jihad
+-   \(2008) Hanifa Deen, [**The Jihad
     Seminar](https://uwap.uwa.edu.au/products/the-jihad-seminar),**
     UWA Publishing
 
@@ -1469,11 +1467,11 @@ Novels/Poetry Collection
     Pan Macmillan
 
 -   \(2006) Randa Abdel-Fattah, **T[en Things I Hate About
-    Me](https://www.panmacmillan.com.au/9780330422741/)**[,](https://www.panmacmillan.com.au/9780330422741/)
+    Me](https://www.panmacmillan.com.au/9780330422741/)[**,](https://www.panmacmillan.com.au/9780330422741/)
     Pan Macmillan
 
--   \(2009) Randa Abdel-Fattah, **[Where the Streets Had A
-    Name,** 
+-   \(2009) Randa Abdel-Fattah, [**Where the Streets Had A
+    Name,**
     ](https://www.panmacmillan.com.au/9780330425261/)Pan
     Macmillan
 
@@ -1612,7 +1610,7 @@ Spoken Word Poetry
 -   Nour Abouzeid -
     [**'Integrate'**](https://vimeo.com/34656575)
 
--   Nour Abouzeid - [** Talking
+-   Nour Abouzeid - [**Talking
     Politics**](https://www.youtube.com/watch?v=PVLLY341OzU)
 
 -   Anisa Nandaula - [**Judgment
@@ -1624,23 +1622,23 @@ Spoken Word Poetry
 Bankstown Poetry Slam 
 ----------------------
 
--   **['Inshallah'](https://www.facebook.com/watch/?v=295112211168790) -**
+-   [**'Inshallah'](https://www.facebook.com/watch/?v=295112211168790) -**
     Sara Saleh
 
 -   [**"My
     Australia"**](https://www.youtube.com/watch?v=Q77yakmwgM8) -
     Sara Mansour
 
--   **\"[Moey From Da
-    Area\"](https://www.youtube.com/watch?v=Eu9MWTjqpSw)** -
+-   [**\"Moey From Da
+    Area\"**](https://www.youtube.com/watch?v=Eu9MWTjqpSw)-
     Abir \| Bankstown Poetry Slam
 
--   **\"[Made A
-    Poet\"](https://www.youtube.com/watch?v=bB3LNiPNo9Q)** -
+-   [**\"Made A
+    Poet\"**](https://www.youtube.com/watch?v=bB3LNiPNo9Q)-
     Rojé Ndayambaje
 
--   **\"[This Is What A Feminist Looks
-    Like\"](https://www.youtube.com/watch?v=Yvw2sfzEvCI)** -
+-   [**\"This Is What A Feminist Looks
+    Like\"**](https://www.youtube.com/watch?v=Yvw2sfzEvCI)-
     Iman Etri \| Grand Slam
 
 -   [**WHERE I\'M
@@ -1653,43 +1651,42 @@ Bankstown Poetry Slam
 
 -   [**'Imagine'**](https://www.zohabzee.com/) Zohab Khan
 
--   **\"[First World
-    Problems\"](https://www.youtube.com/watch?v=50nw6P1mZbg)** -
+-   [**\"First World
+    Problems\"**](https://www.youtube.com/watch?v=50nw6P1mZbg)-
     Hannadi
 
--   **\"[F\*\*\* Pauline
-    Hanson\"](https://www.youtube.com/watch?v=KNeJB4SNV0U)** -
+-   [**\"F\*\*\* Pauline
+    Hanson\"**](https://www.youtube.com/watch?v=KNeJB4SNV0U)-
     Mohammad
 
--   **\'[Who Am
-    I?\'](https://www.youtube.com/watch?v=jTv2_96W5_4)** -
+-   [**\'Who Am
+    I?\'**](https://www.youtube.com/watch?v=jTv2_96W5_4)-
     Yasmin
 
--   **\"[This
-    Generation\"](https://www.youtube.com/watch?v=QCtdOyQecKQ)** -
+-   [**\"This
+    Generation\"**](https://www.youtube.com/watch?v=QCtdOyQecKQ)-
     Yasmin
 
--   **\"[The Colour of
-    Language\"](https://www.youtube.com/watch?v=bfO6ghHPdN4)** -
+-   [**\"The Colour of
+    Language\"**](https://www.youtube.com/watch?v=bfO6ghHPdN4)-
     Mahdia
 
--   **\"[I Am Not A
-    Statistic\"](https://www.youtube.com/watch?v=CxuFIUVc5wY)** -
+-   [**\"I Am Not A
+    Statistic\"**](https://www.youtube.com/watch?v=CxuFIUVc5wY)-
     Dina
 
--   **Identity Theft** [
-    ](https://www.youtube.com/watch?v=0rsHAgNyDrM)- Nav
+-   [**Identity Theft**](https://www.youtube.com/watch?v=0rsHAgNyDrM)- Nav
 
--   **\"[Hit Me With Your
-    Prejudice\"](https://www.youtube.com/watch?v=BC7bkK8nwmk)** -
+-   [**\"Hit Me With Your
+    Prejudice\"**](https://www.youtube.com/watch?v=BC7bkK8nwmk)-
     Yusra
 
--   **\"[Anatomy of
-    Terror\"](https://www.youtube.com/watch?v=H2awM7pDvWc)** -
+-   [**\"Anatomy of
+    Terror\"**](https://www.youtube.com/watch?v=H2awM7pDvWc)-
     Jenny
 
--   **\"[If They Can Pronounce
-    Shakespeare\"](https://www.youtube.com/watch?v=4KBKLqMH5h4)** -
+-   [**\"If They Can Pronounce
+    Shakespeare\"**](https://www.youtube.com/watch?v=4KBKLqMH5h4)-
     Yasmine
 
 -   [**Blame the
@@ -1699,16 +1696,16 @@ Bankstown Poetry Slam
 -   [**\"Privilege\"**](https://www.youtube.com/watch?v=SIDvNP6z_B0) -
     Jess (Feature Poet)
 
--   **\"[Mr. War
-    (Palestine)\"](https://www.youtube.com/watch?v=LoFrtG-FL24)** -
+-   [**\"Mr. War
+    (Palestine)\"**](https://www.youtube.com/watch?v=LoFrtG-FL24)-
     Pola
 
 -   [**F Tha
     Silence**](https://www.youtube.com/watch?v=EGfjl7gThSI) -
     Sharnay
 
--   **\"[Call Me By My
-    Name\"](https://www.youtube.com/watch?v=Q8pLLdMYaAc)** -
+-   [**\"Call Me By My
+    Name\"**](https://www.youtube.com/watch?v=Q8pLLdMYaAc)-
     Food Court
 
 -   [**\"Blood\"**](https://www.youtube.com/watch?v=tgNtJ5U9PW0) -
