@@ -11,6 +11,12 @@
  * https://github.com/minicomp/ed.
 */
 
+#markdown-toc > li > ol {
+  margin-bottom: 0;
+}
+.underline {
+  text-decoration: underline;
+}
 /*
   To apply a different color scheme to the whole scroll down to the themes section for instructions
 */
