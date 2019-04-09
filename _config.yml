@@ -44,6 +44,7 @@ kramdown:
 exclude:
   - optional
   - vendor
-
+  - venv
+  - _scripts
 # Theme
-theme: "ed."
+# theme: "ed."
