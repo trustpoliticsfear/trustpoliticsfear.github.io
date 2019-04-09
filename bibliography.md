@@ -1460,12 +1460,12 @@ Non-Fiction and Memoir
 Novels/Poetry Collection
 ------------------------
 
--   \(2005) Randa Abdel-Fattah, [[**Does My Head Look Big In
+-   \(2005) Randa Abdel-Fattah, [**Does My Head Look Big In
     This?**](https://www.panmacmillan.com.au/9780330421850/),
     Pan Macmillan
 
--   \(2006) Randa Abdel-Fattah, **T[en Things I Hate About
-    Me](https://www.panmacmillan.com.au/9780330422741/)[**,](https://www.panmacmillan.com.au/9780330422741/)
+-   \(2006) Randa Abdel-Fattah, [**Ten Things I Hate About
+    Me**](https://www.panmacmillan.com.au/9780330422741/),
     Pan Macmillan
 
 -   \(2009) Randa Abdel-Fattah, [**Where the Streets Had A
@@ -1490,8 +1490,8 @@ Novels/Poetry Collection
 -   \(2011) Amal Awad, [**Courting
     Samira**](https://www.amazon.com/Amal-Awad/e/B005ZWQ7I2/ref=dp_byline_cont_ebooks_1)
 
--   \(2011) Randa Abdel-Fattah[, **Buzz
-    Off**,](https://resource.scholastic.com.au/resourcefiles/Teacher_Notes/7988322_36761.pdf)
+-   \(2011) Randa Abdel-Fattah, [**Buzz
+    Off**](https://resource.scholastic.com.au/resourcefiles/Teacher_Notes/7988322_36761.pdf),
     Scholastic
 
 -   \(2014) [Amra
@@ -1620,7 +1620,7 @@ Spoken Word Poetry
 Bankstown Poetry Slam 
 ----------------------
 
--   [**'Inshallah'](https://www.facebook.com/watch/?v=295112211168790) -**
+-   [**'Inshallah'**](https://www.facebook.com/watch/?v=295112211168790) -
     Sara Saleh
 
 -   [**"My
