@@ -1240,7 +1240,7 @@ Free speech debates
     foreigners'**](https://www.sbs.com.au/topics/life/culture/article/2019/02/14/our-long-history-cartoons-demonising-foreigners?fbclid=IwAR3Jm60CtSgj91PpCQyLKydJPW31UBzeAIlwUge87Wvs7UGrkxG_s1YInl8),
     Safdar Ahmed
 
-Research Reports:
+Research Reports
 =================
 
 -   23 November 2013, Hizb ut-Tahrir Australia, [**Government
@@ -1257,7 +1257,7 @@ Research Reports:
     Muslims: Attitudes and experiences of Muslims
     Report**](https://www.isra.org.au/site/user-assets/docs/the20resilience20and20ordinariness20of20australian20muslims-wb.pdf)
 
-Academic Publications, Non-Fiction, Memoirs and Novels:
+Academic Publications, Non-Fiction, Memoirs and Novels
 =======================================================
 
 Academic 
@@ -1335,7 +1335,7 @@ Melbourne University Press, Carlton.
 -   \(2013) Han, E. & Rane, H. **Making Australian Foreign Policy on
     Israel-Palestine: Media**
 
-**Coverage, Public Opinion and Interest Groups**, Melbourne University
+-   **Coverage, Public Opinion and Interest Groups**, Melbourne University
 Press, Carlton.
 
 -   \(2014) Rane, H. Ewart, J. & Martinkus, J. Media **Framing of the Muslim
