@@ -1037,9 +1037,8 @@ Gendered Islamophobia/Sexuality
 
 <!-- -->
 
--   24 November 2016, ABC Radio National, '[**In my shoes part 2:
-    Eugenia, Ruby and
-    Oishee](https://www.abc.net.au/radionational/programs/earshot/in-my-shoes-pt-2/8024000)',**
+-   24 November 2016, ABC Radio National, [**'In my shoes part 2:
+    Eugenia, Ruby and Oishee'**](https://www.abc.net.au/radionational/programs/earshot/in-my-shoes-pt-2/8024000),
     Sarah Malik, Eugenia Flynn, Ruby Hamad, Oishee Alam
 
 -   27 September 2016, Catalogue, [**Hana Assafiri interviewed by Helen
@@ -1142,10 +1141,7 @@ Gendered Islamophobia/Sexuality
     featuring Michael Mohammed Ahmad and Omar Sakr'.  
     Michael Mohammed Ahmed
 
--   2019, ABC Radio National, Podcast: 'Dr Michael Mohammed Ahmad', [**
-    Conversations with
-    Writers**](http://www.conversationswithwriters.com/uncategorized/dr-michael-mohammed-ahmad/)
-    **Michael Mohammed Ahmed**[
+-   2019, ABC Radio National, Podcast: 'Dr Michael Mohammed Ahmad', [**Conversations with Writers**](http://www.conversationswithwriters.com/uncategorized/dr-michael-mohammed-ahmad/), [Michael Mohammed Ahmed
     ](https://www.abc.net.au/radionational/programs/archived/talkfest/talkfest-29-september-the-lebs/10204684)
 
 <!-- -->
@@ -1454,7 +1450,7 @@ Non-Fiction and Memoir
 -   \(2019) Eds Maxine Beneba Clarke, Magan Magan, Ahmed Yussuf, [**Growing
     Up African in
     Australia**](https://www.blackincbooks.com.au/books/growing-african-australia),
-    Black Inc \included on this list as some of the contributors to the
+    Black Inc \(included on this list as some of the contributors to the
     anthology are Muslim)
 
 Novels/Poetry Collection
