@@ -792,10 +792,10 @@ Islamophobia and Race
 
 -   2019, ABC Radio National, '[**Sense of Place: Michael Mohammed
     Ahmad, Western
-    Sydney'](https://www.abc.net.au/radionational/programs/blueprintforliving/features/sense-of-place/sense-of-place:-michael-mohammed-ahmad,-western-sydney/10743816),
-    **
+    Sydney'**](https://www.abc.net.au/radionational/programs/blueprintforliving/features/sense-of-place/sense-of-place:-michael-mohammed-ahmad,-western-sydney/10743816),
+    
 
--   2019, ABC Radio National **'[The
+-   2019, ABC Radio National [**'The
     Lebs'**](https://www.abc.net.au/radionational/programs/archived/talkfest/talkfest-29-september-the-lebs/10204684), 
     Michael Mohammed Ahmed
 
@@ -892,8 +892,8 @@ Global war on terror
     Uthman Badar
 
 -   16 November 2015, The Project TV, [**Waleed Aly on the Paris
-    Attacks](https://www.dailymail.co.uk/video/news/video-1229370/Waleed-Aly-plea-unity-following-Paris-terror-attacks.html)
-    **
+    Attacks**](https://www.dailymail.co.uk/video/news/video-1229370/Waleed-Aly-plea-unity-following-Paris-terror-attacks.html)
+    
 
 -   13 December 2013, Online Opinion, [**Criminalising solidarity with
     Syria**,](http://www.onlineopinion.com.au/view.asp?article=15835)
