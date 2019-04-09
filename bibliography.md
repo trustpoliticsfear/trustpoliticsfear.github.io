@@ -680,9 +680,7 @@ Islamophobia and Race
 
 -   11 May 2018, Djed Press, [**Nas Daily: whitewashing Australia in
     just 1
-    minute**](https://djedpress.com/2018/05/11/nas-daily-whitewashing-australia-in-just-1-minute/)
-
--   Tasnim Mahmoud
+    minute**](https://djedpress.com/2018/05/11/nas-daily-whitewashing-australia-in-just-1-minute/), Tasnim Mahmoud
 
 -   May 2018, Wheeler Centre, [**Not racist but...the media and
     racism**](https://www.wheelercentre.com/broadcasts/not-racist-but-the-media-and-racism),
@@ -796,8 +794,7 @@ Islamophobia and Race
     
 
 -   2019, ABC Radio National [**'The
-    Lebs'**](https://www.abc.net.au/radionational/programs/archived/talkfest/talkfest-29-september-the-lebs/10204684), 
-    Michael Mohammed Ahmed
+    Lebs'**](https://www.abc.net.au/radionational/programs/archived/talkfest/talkfest-29-september-the-lebs/10204684), Michael Mohammed Ahmed
 
 Counter-terrorism and countering violent extremism
 ================================================================
@@ -1565,10 +1562,10 @@ Stand Up Comedy
     Benefit
     Event**](https://mediaweek.com.au/nazeem-hussain-organises-stand-up-for-christchurch-comedy-gig/)
 
--   Fear of a Brown Planet:
+-   **Fear of a Brown Planet**:
     [https://www.facebook.com/fearofabrownplanet/](https://www.facebook.com/fearofabrownplanet/)
 
--   Fear of a Brown Planet:
+-   **Fear of a Brown Planet**:
     [https://www.abc.net.au/tv/programs/fear-of-a-brown-planet/](https://www.abc.net.au/tv/programs/fear-of-a-brown-planet/)
 
 -   **Legally Brown**, SBS One:
