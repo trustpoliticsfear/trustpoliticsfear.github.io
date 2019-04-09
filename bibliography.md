@@ -899,7 +899,7 @@ Global war on terror
     Syria**,](http://www.onlineopinion.com.au/view.asp?article=15835)
     Uthman Badar
 
--   12 December 2015, The National, **"[Stop making me apologise for
+-   12 December 2015, The National, [**"Stop making me apologise for
     the acts of
     extremists"**](https://www.thenational.ae/opinion/stop-making-me-apologise-for-the-acts-of-extremists-1.104437),
     Yassir Morsi
@@ -926,9 +926,9 @@ Gendered Islamophobia/Sexuality
     ](https://griffithreview.com/articles/living-in-a-material-world/)Randa
     Abdel-Fattah
 
--   2008, Divided Nation. Griffith Review, Edition 15, **'[Of Middle
+-   2008, Divided Nation. Griffith Review, Edition 15, [**'Of Middle
     Eastern
-    Appearance'](https://griffithreview.com/articles/of-middle-eastern-appearance/)[**,](https://griffithreview.com/articles/of-middle-eastern-appearance/)
+    Appearance'**](https://griffithreview.com/articles/of-middle-eastern-appearance/),
     Randa Abdel-Fattah
 
 -   16 January 2009, Crikey, [**Another storm in a
@@ -943,7 +943,7 @@ Gendered Islamophobia/Sexuality
     imperialism**,](http://www.onlineopinion.com.au/view.asp?article=9195)
     Alice Aslan
 
--   28 January 2010, Sydney Morning Herald, [ **Muslim feminists
+-   28 January 2010, Sydney Morning Herald, [**Muslim feminists
     deserve to be
     heard**,](https://www.smh.com.au/politics/federal/muslim-feminists-deserve-to-be-heard-20100127-mywf.html)
     Randa Abdel-Fattah and Susan Carland
@@ -1000,9 +1000,9 @@ Gendered Islamophobia/Sexuality
 -   13 December 2015, [**Muslims Read Mean
     Tweets**](https://www.youtube.com/watch?v=Jzr0q5DISIM)
 
--   23 January 2016, New Matilda, **'[The Cologne Attacks And The Big
+-   23 January 2016, New Matilda, [**'The Cologne Attacks And The Big
     White Elephant In The
-    Room\'](https://newmatilda.com/2016/01/23/the-cologne-attacks-and-the-white-elephant-in-the-room/)[**,](https://newmatilda.com/2016/01/23/the-cologne-attacks-and-the-white-elephant-in-the-room/)
+    Room\'**](https://newmatilda.com/2016/01/23/the-cologne-attacks-and-the-white-elephant-in-the-room/),
     Randa Abdel-Fattah
 
 -   10 March 2016, Inside Story, [**Victims and suspects: the catch-22
@@ -1090,7 +1090,7 @@ Gendered Islamophobia/Sexuality
 
 <!-- -->
 
--   1 February 2018, New Matilda, [ **Free Muslim Women... To Wear
+-   1 February 2018, New Matilda, [**Free Muslim Women... To Wear
     Whatever Caroline Overington Says They
     Should**,](https://newmatilda.com/2018/02/01/free-muslim-women-to-wear-whatever-caroline-overington-says-they-should/?fbclid=IwAR075T5mz7zgU6W-IXX_LdLOOEP3wB7z8cfQXNa_4h31F5ayXrwQqKzDCvI)
     Rawand Al-Hinti
@@ -1227,7 +1227,7 @@ Free speech debates
 
 <!-- -->
 
--   23 -- 29 June 2018, The Saturday Paper, [ **What is political
+-   23 -- 29 June 2018, The Saturday Paper, [**What is political
     correctness?**,](https://www.thesaturdaypaper.com.au/opinion/topic/2018/06/23/what-political-correctness/15296760006446)
     Omar J. Sakr
 
@@ -1236,7 +1236,7 @@ Free speech debates
     grief**](https://www.theguardian.com/culture/2018/aug/28/i-wanted-to-make-jokes-about-my-destroyed-career-but-all-i-felt-was-grief),
     Yassmin Abdel-Magied
 
--   19 February 2019, SBS, **'[Our long history of cartoons demonising
+-   19 February 2019, SBS, [**'Our long history of cartoons demonising
     foreigners'**](https://www.sbs.com.au/topics/life/culture/article/2019/02/14/our-long-history-cartoons-demonising-foreigners?fbclid=IwAR3Jm60CtSgj91PpCQyLKydJPW31UBzeAIlwUge87Wvs7UGrkxG_s1YInl8),
     Safdar Ahmed
 
