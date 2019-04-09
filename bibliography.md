@@ -188,7 +188,7 @@ Islamophobia and Race
 
 -   17 December 2008, Online Opinion, [**Not another wave of
     Islamophobia
-    please!](http://www.onlineopinion.com.au/view.asp?article=8300),**
+    please!**](http://www.onlineopinion.com.au/view.asp?article=8300),
     Alice Aslan
 
 -   2005-2008, Channel 31, [**Salam
@@ -306,7 +306,7 @@ Islamophobia and Race
 
 -   1 February 2015, Al Jazeera English, [**\'Australia\'s
     multicultural
-    project\'](https://www.aljazeera.com/indepth/opinion/2015/01/australia-multicultural-project-201512183322327295.html),**
+    project\'**](https://www.aljazeera.com/indepth/opinion/2015/01/australia-multicultural-project-201512183322327295.html),
     Randa Abdel-Fattah
 
 -   24 February 2015, ABC Religion and Ethics Online, [**Including
@@ -422,7 +422,7 @@ Islamophobia and Race
 
 -   7 December 2015, Kill Your Darlings, [**Parallel Lanes: On fear,
     citizenship and
-    accountability****](https://www.killyourdarlings.com.au/2015/12/parallel-lanes/),**
+    accountability******](https://www.killyourdarlings.com.au/2015/12/parallel-lanes/),
     Omar J. Sakr
 
 <!-- -->
@@ -503,7 +503,7 @@ Islamophobia and Race
 
 -   30 November 2016, The Guardian, [**Peter Dutton did not appear out
     of thin air. He represents consistent Australian
-    policy](https://www.theguardian.com/commentisfree/2016/nov/30/peter-dutton-did-not-appear-out-of-thin-air-he-represents-consistent-australian-poli),**
+    policy**](https://www.theguardian.com/commentisfree/2016/nov/30/peter-dutton-did-not-appear-out-of-thin-air-he-represents-consistent-australian-poli),
     [Omar
     Bensaidi](https://www.theguardian.com/profile/omar-bensaidi)
 
@@ -718,7 +718,7 @@ Islamophobia and Race
 
 -   18 August 2018, SBS The Feed, [**Opinion: Anning\'s speech proves
     Parliament needs a code of
-    conduct](https://www.sbs.com.au/news/the-feed/opinion-anning-s-speech-proves-parliament-needs-a-code-of-conduct?fbclid=IwAR1SdwyY9Ml_PE502Kke2oc3R4w2k-MKqNdxSmWyuu0BPQsh6oOcamTasFg),**
+    conduct**](https://www.sbs.com.au/news/the-feed/opinion-anning-s-speech-proves-parliament-needs-a-code-of-conduct?fbclid=IwAR1SdwyY9Ml_PE502Kke2oc3R4w2k-MKqNdxSmWyuu0BPQsh6oOcamTasFg),
     Ramia Abdo Sultan
 
 -   18-24 August 2018, The Saturday Paper, [**Fraser Anning and racist
@@ -727,7 +727,7 @@ Islamophobia and Race
 
 -   26 August 2018, ABC Religion and Ethics Online, [**Islam and the
     West: How Muslims are constructing a new
-    identity](https://www.abc.net.au/religion/islam-and-the-west-how-muslims-are-constructing-a-new-identity/10214294),**
+    identity**](https://www.abc.net.au/religion/islam-and-the-west-how-muslims-are-constructing-a-new-identity/10214294),
     Adis Duderija
 
 -   19 September 2018, The New Arab, [**The Absent
@@ -745,7 +745,7 @@ Islamophobia and Race
 
 -   22 October 2018, Crikey, [**Red meat to the base: why white
     fragility can't stand being
-    roasted](https://www.crikey.com.au/2018/10/22/red-meat-to-the-base-why-white-fragility-cant-stand-being-roasted/),**
+    roasted**](https://www.crikey.com.au/2018/10/22/red-meat-to-the-base-why-white-fragility-cant-stand-being-roasted/),
     Shakira Hussein
 
 -   12 November 2018, ABC PM Linda Mottram, [ **\"We need to move
@@ -754,7 +754,7 @@ Islamophobia and Race
     Anne Aly
 
 -   10 December 201, Djed Press,
-    [**Storm](https://djedpress.com/2018/12/10/storm-2/),**
+    [**Storm**](https://djedpress.com/2018/12/10/storm-2/),
     Rafeif Ismail.
 
 -   13 December 2018, Sydney Morning Herald, [**So we\'re a
@@ -769,7 +769,7 @@ Islamophobia and Race
 
 -   8 January 2019, Independent Australia, [**Dutton, Morrison and
     Prakash: The politicising of Muslim
-    extremism](https://independentaustralia.net/politics/politics-display/dutton-morrison-and-prakash-the-politicising-of-muslim-extremism,12255),**
+    extremism**](https://independentaustralia.net/politics/politics-display/dutton-morrison-and-prakash-the-politicising-of-muslim-extremism,12255),
     Bilal Cleland
 
 -   15 January 2019, Djed Press, [**Islamophobia Is Real and
@@ -823,7 +823,7 @@ Counter-terrorism and countering violent extremism
 
 -   8 July 2015, Sydney Morning Herald, [**Scapegoating minorities may
     reap a bitter
-    harvest](https://www.smh.com.au/opinion/scapegoating-minorities-may-reap-a-bitter-harvest-20150708-gi7l2u.html),**
+    harvest**](https://www.smh.com.au/opinion/scapegoating-minorities-may-reap-a-bitter-harvest-20150708-gi7l2u.html),
     Mariam Veiszadeh and Lydia Shelly
 
 <!-- -->
@@ -835,7 +835,7 @@ Counter-terrorism and countering violent extremism
 
 -   9 October 2015, The Guardian, [**'The stigmatisation of Muslims as
     \'could-be terrorists\' has produced a toxic social
-    order'](https://www.theguardian.com/commentisfree/2015/oct/09/the-stigmatisation-of-muslims-as-could-be-terrorists-has-produced-a-toxic-social-order),**
+    order'**](https://www.theguardian.com/commentisfree/2015/oct/09/the-stigmatisation-of-muslims-as-could-be-terrorists-has-produced-a-toxic-social-order),
     Randa Abdel-Fattah
 
 <!-- -->
@@ -954,7 +954,7 @@ Gendered Islamophobia/Sexuality
 
 -   5 April 2013, Right Now, [**The challenges of being a Muslim woman
     in a multicultural
-    society](http://rightnow.org.au/opinion-3/the-challenges-of-being-a-muslim-woman-in-a-multicultural-society/),**
+    society**](http://rightnow.org.au/opinion-3/the-challenges-of-being-a-muslim-woman-in-a-multicultural-society/),
     Ghena Krayem
 
 -   7 May 2013, Overland, [**Saving the Muslim woman, yet
@@ -963,7 +963,7 @@ Gendered Islamophobia/Sexuality
 
 -   14 May 2013, Green Left Weekly, [**Islamophobia hides under cloak
     of gender
-    equality](https://www.greenleft.org.au/glw-authors/mohamad-tabbaa),**
+    equality**](https://www.greenleft.org.au/glw-authors/mohamad-tabbaa),
     Mohamad Tabbaa
 
 -   26 June 2013, TED, [**Don\'t Believe the Hype, Exceed It - The War
@@ -973,7 +973,7 @@ Gendered Islamophobia/Sexuality
 
 -   2 October 2014, [**Want an Insight Into Life Under the Muslim Veil?
     How About
-    Asking?](https://newmatilda.com/2014/10/02/want-insight-life-under-muslim-veil-how-about-asking/),**
+    Asking?**](https://newmatilda.com/2014/10/02/want-insight-life-under-muslim-veil-how-about-asking/),
     Somayra Ismailjee
 
 -   6 October 2014, 3cr FM, [**Islamophobia in Australia -- Women on
@@ -1190,7 +1190,7 @@ Free speech debates
 
 -   23 February 2015, The Guardian, [**Hizb ut-Tahrir: is it now an
     offence to oppose government policy? If so, let it be said
-    plainly](https://www.theguardian.com/commentisfree/2015/feb/23/hizb-ut-tahrir-is-it-now-an-offence-to-oppose-government-policy-if-so-let-it-be-said-plainly),**
+    plainly**](https://www.theguardian.com/commentisfree/2015/feb/23/hizb-ut-tahrir-is-it-now-an-offence-to-oppose-government-policy-if-so-let-it-be-said-plainly),
     Uthman Badar
 
 <!-- -->
@@ -1317,9 +1317,7 @@ citations.*)
 <!-- -->
 
 -   \(2010) Rane, H. Ewart, J. & Abdalla, M. (eds.) **Islam and the
-    Australian News Media,**
-
-Melbourne University Press, Carlton.
+    Australian News Media,** Melbourne University Press, Carlton.
 
 -   \(2010) Samina Yasmeen (editor), **Muslims In Australia: The Dynamics of
     Exclusion and Inclusion**, MUP
@@ -1346,7 +1344,7 @@ Press, Carlton.
 
 -   (2015), Iner, D & Yucel, S. (Eds.) [**Muslim Identity Formation in
     Religiously Diverse
-    Societies](https://www.cambridgescholars.com/muslim-identity-formation-in-religiously-diverse-societies),**
+    Societies**](https://www.cambridgescholars.com/muslim-identity-formation-in-religiously-diverse-societies),
     Cambridge Scholars Publishing.
 
 -   \(2016) Shakira Hussein [**From Victims to
@@ -1375,7 +1373,7 @@ Press, Carlton.
     Melbourne University Press
 
 -   \(2018) Mehal Krayem [**Heroes, Villains and the Muslim
-    Exception](https://www.mup.com.au/authors/mehal-krayem),**
+    Exception**](https://www.mup.com.au/authors/mehal-krayem),
     Melbourne university Press
 
 -   \(2018) Randa Abdel-Fattah [**Islamophobia and Everyday
@@ -1398,7 +1396,7 @@ Non-Fiction and Memoir
     Allen & Unwin
 
 -   \(2007) Irfan Yusuf, [**Once Were
-    Radicals](https://www.allenandunwin.com/browse/books/general-books/biography-autobiography/Once-Were-Radicals-Irfan-Yusuf-9781741758269),**
+    Radicals**](https://www.allenandunwin.com/browse/books/general-books/biography-autobiography/Once-Were-Radicals-Irfan-Yusuf-9781741758269),
     Allen & Unwin
 
 -   \(2007) Waleed Aly, [**People Like
@@ -1406,7 +1404,7 @@ Non-Fiction and Memoir
     Macmillan
 
 -   \(2008) Hanifa Deen, [**The Jihad
-    Seminar](https://uwap.uwa.edu.au/products/the-jihad-seminar),**
+    Seminar**](https://uwap.uwa.edu.au/products/the-jihad-seminar),
     UWA Publishing
 
 -   \(2010) [Amra
