@@ -26,9 +26,7 @@ description: >
 
 * 18 March 2019, *ABC TV The Drum* Panel of Muslim women, Randa Abdel-Fattah, Sara Saleh, Hanan Dover, Diana El-Sayed, Lydia Shelly. [https://www.abc.net.au/news/2019-03-18/the-drum-monday-march-18/10914332]
 
-
 * 21 February 2019, *ABC Late Night Live Phillip Adams* Arab Australian Feminism, Randa Abdel-Fattah and Sara Saleh
-
 
 * 16 July 2018 Panellist on Constitution Day Forum hosted by National Archives of Australia and broadcast on ABC’s Radio National. *ABC Big Ideas*, Citizenship, parliament, and the constitution, Randa Abdel-Fattah. [https://www.abc.net.au/radionational/programs/bigideas/citizenship,-parliament,-and-the-the-constitution/9971736]
 
