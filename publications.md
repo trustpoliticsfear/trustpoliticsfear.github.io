@@ -30,7 +30,7 @@ description: >
 * 21 February 2019, *ABC Late Night Live Phillip Adams* Arab Australian Feminism, Randa Abdel-Fattah and Sara Saleh
 
 
-* 16 July 2018, *ABC Big Ideas*, Citizenship, parliament, and the constitution, Randa Abdel-Fattah. [https://www.abc.net.au/radionational/programs/bigideas/citizenship,-parliament,-and-the-the-constitution/9971736]
+* 16 July 2018 Panellist on Constitution Day Forum hosted by National Archives of Australia and broadcast on ABC’s Radio National. *ABC Big Ideas*, Citizenship, parliament, and the constitution, Randa Abdel-Fattah. [https://www.abc.net.au/radionational/programs/bigideas/citizenship,-parliament,-and-the-the-constitution/9971736]
 
 * 9 November 2018, *The Conversation*, How a Sri Lankan student’s arrest on terror charges exposes a system built to suspect minorities, Randa Abdel-Fattah [https://theconversation.com/how-a-sri-lankan-students-arrest-on-terror-charges-exposes-a-system-built-to-suspect-minorities-106613]
 
