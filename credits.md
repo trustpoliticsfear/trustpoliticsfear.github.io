@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Credits"
-sortorder: 40
+sortorder: 50
 description: "Credits for the Site"
 ---
 
