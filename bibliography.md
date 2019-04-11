@@ -2,7 +2,7 @@
 layout: page
 title: "Australian Muslim Voices on Islamophobia, race and the 'War on Terror' by Dr Randa Abdel-Fattah"
 author: Dr Randa Abdel-Fattah
-shortTitle: "Bibliography"
+shortTitle: "Resources"
 description: >
     By Dr Randa Abdel-Fattah
     This bibliography collates a sample of op-eds, commentary, radio and TV interviews, podcasts and spoken word performances created and authored by Australian Muslims on the subject of Islamophobia, race and 'the War on Terror' from the early 2000s to date.

@@ -10,7 +10,9 @@
  * Based on the Poole and Lanyon theme by @mdo. Learn more at
  * https://github.com/minicomp/ed.
 */
-
+.sidebar-item > p {
+  text-align: left;
+}
 #markdown-toc > li > ol {
   margin-bottom: 0;
 }
