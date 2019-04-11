@@ -45,7 +45,7 @@ Dr Paula Abood is a community cultural development practitioner, writer and educ
 
 * TASA, Deakin University, 21 November 2018. Paper: ‘Islamophobia and Australian Muslim youth's navigation of (un)safe spaces for political expression’
 
-* Australian Academy of the Humanities’ Symposium Clash of Civilisations? Where are we now? 15-16 November 2018, State Library of NSW, Sydney. Panel: TALKING UP STRIFE: THE RHETORIC OF CLASH OF CIVILISATIONS, Professor Marion Maddox FAHA (Macquarie University) in discussion with Dr Shakira Hussein (University of Melbourne), Dr Randa Abdel-Fattah (Macquarie University), Rory O’Connor (Yugambeh Museum), photojournalist Steve Levitt and Noel Debien (ABC Radio National).
+* Australian Academy of the Humanities’ Symposium Clash of Civilisations? Where are we now? 15-16 November 2018, State Library of NSW, Sydney. Panel: Talking up Strife: The rhetoric of Clash of Civilisations. 
 
 * Metropolis 2018 Conference, 2 November 2018. Panel: Australia a multicultural paradise –myths and realities.
 
