@@ -45,12 +45,14 @@ body {
 
 html {
   font-family: $main-font;
+  font-size: $backup-font-size;
   font-size: $regular-font-size;
   line-height: 1.8rem;
 }
 
 @media (min-width: 38em) {
   html {
+    font-size: $backup-font-size;
     font-size: $regular-font-size;
   }
 }
