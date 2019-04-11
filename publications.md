@@ -14,9 +14,9 @@ description: >
 
 ## Newspaper and Media Articles
 
-Abdel-Fattah, Randa. 2019. "We Told You the Threat Is White Supremacy. You Ignored Us." *Alaraby. The New Arab.* 2019. [https://www.alaraby.co.uk/english/comment/2019/3/16/we-told-you-the-threat-is-white-supremacy](https://www.alaraby.co.uk/english/comment/2019/3/16/we-told-you-the-threat-is-white-supremacy).
+* Abdel-Fattah, Randa. 2019. "We Told You the Threat Is White Supremacy. You Ignored Us." *Alaraby. The New Arab.* 2019. [https://www.alaraby.co.uk/english/comment/2019/3/16/we-told-you-the-threat-is-white-supremacy](https://www.alaraby.co.uk/english/comment/2019/3/16/we-told-you-the-threat-is-white-supremacy).
 
 ## Books
 
-Abdel-Fattah, Randa. Forthcoming. *Arab, Australian, Other*
+* Abdel-Fattah, Randa. Forthcoming. *Arab, Australian, Other*
 
