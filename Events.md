@@ -37,13 +37,7 @@ Dr Paula Abood is a community cultural development practitioner, writer and educ
 
 * ‘Islamic Schooling Conference and Forum AAISC 2019 – A Focus on Social Justice', Melbourne University, July 2019.
 
-* The 10th Annual International Islamophobia Conference: Virtual Internment: Islamophobia, Social Technologies of Surveillance and Unequal Citizenship 15 April 2019 - 21 Apr 2019*
-
-Session Title: Islamophobia, Comparative Geographies, and Reform Discourses
-Chair: Khalid Kadir, International & Area Studies, UC Berkeley
-
-Randa Abdel-Fattah, Macquarie University Sydney, Australia. Paper: “Islamophobia and Racial Australianization.”
-Rhonda Itaoui, Western Sydney University and M. Bilal Nasir, Department of Anthropology, Northwestern University, Chicago, USA.
+* The 10th Annual International Islamophobia Conference: Virtual Internment: Islamophobia, Social Technologies of Surveillance and Unequal Citizenship 15 April 2019 - 21 April 2019, Paper: “Islamophobia and Racial Australianization.”
 
 * Macquarie University Research Theme Workshop ‘State Violence’, 3 December 2018. Paper: ‘I’m giving you the opportunity to say that you aren’t’: the war on terror and ‘radical’ politics.
 
