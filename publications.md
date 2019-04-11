@@ -10,6 +10,8 @@ description: >
 
 ## Journal Articles
 
+* Abdel-Fattah, Randa. 2019. 'Media and Political loops in the constructions of ‘Gen Y Jihadists’: prayer groups, handshakes and schools'. *Continuum: Journal of Media and Cultural Studies* Forthcoming
+
 * Abdel-Fattah, Randa. 2019. 'Countering violent extremism, governmentality and Australian Muslim youth as ‘becoming terrorist’' *Journal of Sociology*' 1-16.
 
 * Abdel-Fattah, Randa. 2019. "Managing Belief and Speech as Incipient Violence: 'I'm Giving You the Opportunity to Say That You Aren't'." *Journal of Policing, Intelligence and Counter Terrorism* 14 (1): 20--38.
